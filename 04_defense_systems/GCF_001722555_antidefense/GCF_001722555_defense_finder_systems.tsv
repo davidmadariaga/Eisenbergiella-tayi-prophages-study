@@ -1,0 +1,5 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+GCF_001722555_acriia21_1	Anti_CRISPR	acriia21	Antidefense	HIIPMC_06410	HIIPMC_06410	HIIPMC_06410	1	acriia21
+GCF_001722555_acriia21_2	Anti_CRISPR	acriia21	Antidefense	HIIPMC_21320	HIIPMC_21320	HIIPMC_21320	1	acriia21
+GCF_001722555_arda_ardu_4	Anti_RM	arda_ardu	Antidefense	HIIPMC_25735	HIIPMC_25735	HIIPMC_25735	1	ardu
+GCF_001722555_acriia21_3	Anti_CRISPR	acriia21	Antidefense	HIIPMC_36135	HIIPMC_36135	HIIPMC_36135	1	acriia21

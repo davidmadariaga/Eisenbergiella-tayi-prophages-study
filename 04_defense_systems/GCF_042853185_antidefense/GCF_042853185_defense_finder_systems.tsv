@@ -1,0 +1,3 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+GCF_042853185_acriia21_1	Anti_CRISPR	acriia21	Antidefense	NOLMDO_18400	NOLMDO_18400	NOLMDO_18400	1	acriia21
+GCF_042853185_acriia21_2	Anti_CRISPR	acriia21	Antidefense	NOLMDO_26530	NOLMDO_26530	NOLMDO_26530	1	acriia21

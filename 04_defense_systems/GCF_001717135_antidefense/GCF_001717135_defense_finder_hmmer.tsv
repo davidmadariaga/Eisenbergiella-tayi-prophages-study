@@ -1,0 +1,2 @@
+hit_id	replicon	hit_pos	hit_sequence_length	gene_name	i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match
+BAKPLH_14110	GCF_001717135	2804	301	acriia21	1.3000000000000001e-20	72.2	0.829	0.339	18	119

@@ -1,0 +1,1322 @@
+LOCUS       MN882554.2             31128 bp    DNA              PHG 25-JUL-2025
+DEFINITION  .
+ACCESSION   MN882554
+VERSION     MN882554.2
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..399
+                     /note="Similar to uncharacterised hypothetical protein in
+                     Staphylococcus phage phi5967PVL (874267.G4KNP9_9CAUD,
+                     VOG0519, YP_009113124.1), Staphylococcus phage phiBU01
+                     (1519999.A0A075LZJ9_9CAUD, VOG0519,YP_009113124.1) and
+                     Staphylococcus phage 23MRA (VOG0519, YP_009196794.1). ORF
+                     predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="HNH endonuclease"
+                     /protein_id="QHJ73871.1"
+                     /translation="MARATEKKTAAAKKAAPKKKELTKEEQIKKEQRRLRGIFKDLDAN
+                     KKKLVTPLIDKAAFMSIELDELQKVLEHDGWISEYKNGENQYGTKRSPEADTYIALSKN
+                     YAAVIKQLVDLVPEPKRKASRLAALRDE"
+                     /ID="QHJ73871.1"
+                     /function="DNA, RNA and nucleotide metabolism"
+                     /phrog="119"
+     source          1..31128
+                     /organism="Butyrivibrio phage Idris"
+                     /mol_type="genomic DNA"
+                     /host="Butyrivibrio fibrisolvens DSM 3071"
+                     /db_xref="taxon:2696360"
+     CDS             503..2062
+                     /note="Similar to Terminase large subunit in Clostridium
+                     phage phiCD506 (VOG4544, YP_009201989.1,
+                     1582155.A0A0A8WIA5_9CAUD), Pfam (PF03354.15). ORF predicted
+                     by Phanotate-v1.1.2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="terminase large subunit"
+                     /protein_id="QHJ73815.1"
+                     /translation="MLVDDLEKGATQYNAKAVNKAIKFIENFCHHSKGRSDLLKLELWQ
+                     KAAVAAIFGIVDDNGVRIYREVFIVIARKNGKSLLASAIIAYMAYLEPEYGQEIYCLAP
+                     KLDQAALVYDGFYKMVLAEPELEELAQKRRSDIYIADNNTFIKPIAFNARKSDGFNPQL
+                     VICDELAAWQGDGGLKQYEVMKSALGARRQPLILGITTAGYVNDGIYDELFKRATGVLK
+                     GGSKERRLLPLLYTIDDVDKWNDLTELRKANPNINVSVSEEFFKDEIAVAETSLSKRSE
+                     FLCKYCNIKQNASTAFLDYVVVDGAAADVTLEDFRGSYCVGGLDLSQTTDLTAASVVIE
+                     KSSILYAFTQFFMPASRLETLQATDGVPYDLFVKKGIVTLSGDNYVDYNDVYNWYMQII
+                     RDYELYILQIGYDRYSAKYLIEQLEGAGLHCDDVYQGENLTPVIREFEGIIKDGNFKIA
+                     NNNLLKSHFLNVALKQNMETRKFRPVKIEQRAHIDGFVSVIDAMTVRQKWYAEIGQLLR
+                     NE"
+                     /ID="QHJ73815.1"
+                     /function="head and packaging"
+                     /phrog="9"
+     CDS             2076..3305
+                     /note="Similar to portal protein in Lactobacillus phage iA2
+                     (YP_009201496.1), Pfam (PF04860.12). ORF predicted by
+                     GeneMarkS-2, Glimmer3, Prodigal-v2.6.3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="portal protein"
+                     /protein_id="QHJ73816.2"
+                     /translation="MGLFDYIFKKKNEAILGEYFKMLNTYSPVFTTYDGGVYEMDLTRT
+                     AINSFATHCSKLKPEMSGSAHRKLQRALEFKPNYFTDTPKFIARIATILECEHTCFIAP
+                     VEDKYGELVGFYPLLPSSCEVVDVKGQLYLRYTFSNGQRGAIEFERVGIMTSHQYRNDL
+                     FGESNTTLKPTMQLMQTSNEGIINAVKNSANIRFMAKVANMLKPEDIKKERERFTEDNL
+                     SAENTSGMIIYDSKFADLKQVESKPYTPNALQTQQINENVCTHFGTNMHILQNDFTEEQ
+                     WNAYYEGKIEPFAIQLSIVLSNMVYTDRELATGNMITFSANRLQYASNNTKLQVSTQLF
+                     DRALINRNTVMDIWNMPHVEDGDKYYIRKEYTEVTKLDNGSSDDNTDVNEPQDEPAEDT
+                     TTPTDEGVQE"
+                     /ID="QHJ73816.2"
+                     /function="head and packaging"
+                     /phrog="12"
+     CDS             3305..3907
+                     /note="Similar to prohead protease in Enterococcus phage
+                     EFRM31 (767806.D7PQ42_9CAUD, YP_004306644.1), Enterococcus
+                     phage vB_EfaS_AL3 (YP_009624844.1), and Enterococcus phage
+                     vB_EfaS_AL3 (YP_009624734.1) and peptidase in Enterococcus
+                     phage LY0322 (YP_009624722.1), Pfam (PF04586.17), TIGRfam
+                     (TIGR01543). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.3"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="head maturation protease"
+                     /protein_id="QHJ73817.1"
+                     /translation="MPVVKEREYRELAQPLVARKREEKSDEPSYIVEGYATTFDKPYVL
+                     FEDVDGTKYYEVIDRHALDNADMSDVIMQYDHNGRVFARNSNNTLQLDLDDTGFKVTAD
+                     LSRTELAKGLYEDIAAGMITKMSWAFVVTKDAYDQKTHTRTVLEVKKVYDVSAVSIPAN
+                     DDTMIAARNYVNGRRELEQREQLAKRVAKLKIDTLGI"
+                     /ID="QHJ73817.1"
+                     /function="head and packaging"
+                     /phrog="80"
+     CDS             3945..5144
+                     /note="Similar to putative phage capsid family in
+                     Streptococcus phage phiD12 (1289600.M1Q1R5_9VIRU), and
+                     hypothetical protein in Streptococcus phage phi-SsUD.1
+                     (VOG4553, CBR26909.1), Pfam (PF05065.13), TIGRfam
+                     (TIGR01554). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="major head protein"
+                     /protein_id="QHJ73818.1"
+                     /translation="MNLKEIEARIAEIKNELETRAAELTVEESNKLVDEAEQLNEQRKA
+                     LVEAAEKRNAALANIAAGEGKTVRTFAAPNGAAAGEDDDKYASMAYRKAFMQYVTRGTA
+                     IPAEYRGDANTKTTDVGNVIPTTVVDQIISKLENVGGILALVTKTAYKGGVAIPKNTVK
+                     PVATWVAEGAGSDKQKLAAGSVTFAYHKLRCAVSVSLEVDTMSIAAFEAYLVRVIVEAM
+                     TKKLEESIIKGSGSGEPLGIINTVADDGDTIANVNVAALSYNTLIDAEAELPEEYEGNA
+                     KWCMSKKTFMGFIGLVDENGQPIARVNHGLDGKVERYLLGREVVCTQHLPSFAAADTNA
+                     KFGFLFDFTNYDLNTNYAMGVKKYEDNDTDDQITKAIMLADGKVVDYYGLVTLKKIASV
+                     "
+                     /ID="QHJ73818.1"
+                     /function="head and packaging"
+                     /phrog="10"
+     CDS             5168..5404
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.5"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DNA packaging chaperone FI"
+                     /protein_id="QHJ73819.1"
+                     /translation="MAATKKATSAAKKTAAAPVAEKEQPKAAAKKAAAAIEVRALTLYF
+                     DVALNRIVAEGETFETNEERLELLSGLGLVEKV"
+                     /ID="QHJ73819.1"
+                     /function="head and packaging"
+                     /phrog="92"
+     CDS             5468..5776
+                     /note="Similar to DNA packaging protein in Paenibacillus
+                     phage PG1 (VOG0204, YP_008129871.1). ORF predicted by
+                     GeneMarkS-2, Glimmer3, Phanotate-v1.1.2, Prodigal-v2.6.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="neck protein"
+                     /protein_id="QHJ73820.1"
+                     /translation="MAIVITQTLTDKVRVALRISNTSEAITAEINDTIAACLQDLSAQG
+                     VVKLDQDDALIIRAVILFARSEFNYNGKAEQFRNSYDMQKMSLALDIDYNTPAESEG"
+                     /ID="QHJ73820.1"
+                     /function="connector"
+                     /phrog="5223"
+     CDS             5780..6154
+                     /note="Similar to uncharacterised hypothetical protein in
+                     Streptococcus phage PH10 (644007.C5J966_9CAUD, VOG3409,
+                     VOG4589, YP_002925172.1). ORF predicted by GeneMarkS-2,
+                     Glimmer3, Phanotate-v1.1.2, Prodigal-v2.6.7"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="head-tail adaptor"
+                     /protein_id="QHJ73821.1"
+                     /translation="MAMWAHEVTLLKEAEATPRTNSNGFPIATEPTERTVFCNKKSVGY
+                     AEYFSSQQAGLTASLKVELHKVDYEGELLVMFEGKRYSVLKTYEINDDLIELTLSDLRQ
+                     QATDVEPQPQPDEPQPSTSS"
+                     /ID="QHJ73821.1"
+                     /function="connector"
+                     /phrog="1951"
+     CDS             6176..6655
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.8"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tail completion or Neck1 protein"
+                     /protein_id="QHJ73822.1"
+                     /translation="MAEINTTGLEELSDAFMRHEAAADKAVEAMLQAEADEYVKAYKHA
+                     AAGYGIRKTGGFIESIKAGSIKDEGTAKSIEIVPEGRTDHGADYGGGYSNKGNKRKGKA
+                     QNGKVRYATIGYIFEYGTSTLAARPWLTQGQLQAEQPAYEKAQEIWGKYVEGTLS"
+                     /ID="QHJ73822.1"
+                     /function="connector"
+                     /phrog="5"
+     CDS             6669..6992
+                     /note="Similar to uncharacterised hypothetical protein in
+                     Lactobacillus phage LD25A (VOG0704, YP_009097890.1) and
+                     Lactobacillus phage LD3 (VOG0704, YP_009098720.1). ORF
+                     predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.9"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tail terminator"
+                     /protein_id="QHJ73823.1"
+                     /translation="MSNINEILAAILPTERVIYTGKDKPRTYCTFQRVLENAALSADDD
+                     EKAGQITYRVTLFSKTDYESTLETIKAALKAAGFYINAVEGEDYETDTGYYKIPITVQT
+                     IKS"
+                     /ID="QHJ73823.1"
+                     /function="connector"
+                     /phrog="78"
+     CDS             7008..7565
+                     /note="Similar to major tail protein Paenibacillus phage
+                     Harrison (VOG4586, YP_009193824.1) and Paenibacillus phage
+                     Vegas (VOG4586, YP_009196110.1), TIGRfam (TIGR01603) . ORF
+                     predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.10"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="major tail protein"
+                     /protein_id="QHJ73824.1"
+                     /translation="MTTGLKDLYFAPITMTDGQEVWGEPQKLAEAITADLSVNVAEATL
+                     YADDALNQSVKEFTNGTIKLGVADLAADVLANVLGQATDAAGITWASGDDVAPYVAVGF
+                     RAAKINGIYRYIWLQKVQFKIPSESFETKGESISFKTPEIEGTFMKAIKNGMWKADYTG
+                     LPTSAVAASWFTSVKTEKVTSA"
+                     /ID="QHJ73824.1"
+                     /function="tail"
+                     /phrog="88"
+     regulatory      7596..7629
+                     /regulatory_class="terminator"
+                     /note="Predicted by FindTerm v2.8.1"
+     CDS             7638..8024
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.11"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tail protein"
+                     /protein_id="QHJ73825.1"
+                     /translation="MSAIKDGRYEIELNGKKYHMLFSLNALDEIQDRFGGYDKLDTAMA
+                     EGKDMIKNIRWLFTLLLNEGREEGEPELTEQQVGRLIHVGNIADIKGAIFNAFAFGATG
+                     GEETETEETAGEGDAGNMKSAQEN"
+                     /ID="QHJ73825.1"
+                     /function="tail"
+                     /phrog="2115"
+     CDS             8213..10861
+                     /note="Similar to putative tape measure protein
+                     Lactobacillus phage Ld17 (VOG4545, YP_009098674.1), HAMAP
+                     chromosome partition protein (MF_01894), TIGRfam
+                     (TIGR01760). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.12"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tail length tape measure protein"
+                     /protein_id="QHJ73827.1"
+                     /translation="MADTVEKQVKTKISFDGEADYKKAVADINSNLKTLNSEMKLVTAE
+                     YKANGASVETLKAKQETLQKVYAEQKAKVEATEKALERCRKETGENSDASKKLEQQLNY
+                     QKAALVGTEGELKKTATELDNVEKEADGAGKELKKSGDAAADGANKFEAAGNALKATGA
+                     AIAAATAAIAAAAVAAGKAIWDMANDVASAGDEIDKESQKLQISSDLYQELSYACERSG
+                     ASIDDLKKGVKNITDELGKAQNGTAGAGEKFEKLGVSLKDANGNLKSTETVLMESIDAL
+                     AAMDDETARNAAANEIFGKSAAELLPLLNSGSDGIKELMQEADAYGMVMSEDAVKASAA
+                     FEDSLTRLQGTFTGLKNSIVSELLPSLTTLMDGFSDMLAGKDGAAEKVKEGVKGVVDGV
+                     TDMLPQLVSMLSTIVQAIADVAPDIIAALAEGIINELPALAESALQIIEKLTAALLKML
+                     PQLLQAGVQIILQLAQGIAQALPQLVPAIVEVVLELVDTLIDNIPLLIDAALQLVTGLA
+                     EGIIQAIPVIIEKLPELITSIVNALIEGIPLLIQGAIQLFMALVQAIPVIIEALTAALP
+                     QIIEAIVNGLINGLPMIIEGSIQLFMALLEAIPVIVEALINALPQIVQAIATGLAAALP
+                     ELAAWGANMLNGFVTIFSNVLNSVIQWGSNMLTQAVTSITAFVNGIINTAKDIPVKLYN
+                     AIIGAVAQVQQWGQRVLETAKNGMNMVKNGILNVFSNIGESFKTVGSNIVNGIWNGISA
+                     GWDWLKEKVSNIASSLLDAAKDALGIASPSKKFRDEVGVFMAQGIGVGFENEMQSVSKQ
+                     IANAIPTDFDVTPHVTTGVSAAEYVSENGQQTTLLSRGVTVIQNIYANTTDYAKQQREA
+                     EKNFRMIARTV"
+                     /ID="QHJ73827.1"
+                     /function="tail"
+                     /phrog="5493"
+     CDS             10864..11757
+                     /note="Similar to putative phage tail protein in
+                     Clostridium phage phiCD6356 (864178.E2ELJ6_9CAUD, VOG3653,
+                     YP_004306117.1), Pfam (PF05709.11), TIGRfam (TIGR01633).
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.13"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="distal tail protein Dit"
+                     /protein_id="QHJ73828.1"
+                     /translation="MAKFINYERLIYENENGGAIEFSVGSDFYVNVSKDVNGIADIRNT
+                     LYTSSSMGQHGETFISQKINSRDIDIAGVINRKDKDNMLTLRRAMQKILNPELKATLTY
+                     IYGDFVKVIDVKVDNAPVFKRGAVLEQFTVQFTCPSPFWRDQQETKKDIASWIGSFYFP
+                     LEIPINEGIQFGYREPSVIVDVYNEGDVDTGMRVAFKAIGTVVNPLLLNINTGEFIQVN
+                     QTLAAGDTVIVNTEYGSKGATLTRGGVDSDYFRYIDVDSTFMQLKIGDNVFRYNAASGL
+                     DQLEVSIYYSPKYLGV"
+                     /ID="QHJ73828.1"
+                     /function="tail"
+                     /phrog="33"
+     regulatory      11639..11666
+                     /regulatory_class="promoter"
+                     /note="promoter predicted by PhagePromoter"
+     CDS             11761..12924
+                     /note="Similar to endopeptidase tail protein in
+                     Paenibacillus phage Fern (YP_009203218.1) and Paenibacillus
+                     phage Willow (YP_009593425.1) and uncharacterised
+                     hypothetical protein in Paenibacillus phage HB10c2
+                     (1589749.A0A0B5A2A9_9CAUD, YP_009195206.1), and
+                     Paenibacillus phage Rani (YP_009224882.1), Pfam (PF14594.6,
+                     PF06605.11). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.14"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="minor tail protein"
+                     /protein_id="QHJ73829.1"
+                     /translation="MELRVFTRDLEPLGIVDELISTIWQPTYWQQGNYDDCKLLAPVTD
+                     NNNNLLVKGNIVVLHGEAAEYTDEYGEWRRAMQITYRHITKDENNTEQIELQGCFLKKW
+                     LSKRVLLSNQIITGTNQSIINALVVNNVGDNAISARQFENFIMLQQDSLGGSSVDYTTK
+                     YGDGLADAVYERALSGKLGYDILVNERNRLYGFWLYKGNDMSSGNSAGNTPCIFSRDFD
+                     NVTEQDYTESIENMKNVCYCTSAADEDGTIYAQEVYEDEQAGIDRDEFYVDMTNISWTV
+                     KDEQGQETRLTPEQYIELMTTEGYAQLDDYGEVMTFESTINTSKNLQYKRDFNVGDIVT
+                     TIEKNWGIRIDARITKIGETWQNGKHTLEVTFGESMPTLLDKIKKVR"
+                     /ID="QHJ73829.1"
+                     /function="tail"
+                     /phrog="538"
+     CDS             12929..13915
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.15"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="head protein"
+                     /protein_id="QHJ73830.1"
+                     /translation="MAQKCFPFNSDSGDRVYKAEDFRAYFAQFIGNGVFYANSNALKVV
+                     ESSGMSVNVNAGAGWIAGAGYINDSVLQLTLANADGALNRIDRVVLRCSYTERDVYVAV
+                     KQGSLSAQPTAPALTRNADNYELALADIYVAAGATSITQQDITDQRLNTTLCGIVTGLI
+                     EQADTTDIFNQFEDYLTQFKAQYIADIEEWTSAQESAFTSWSAAQQQEFTDWVDTIRDI
+                     LDEATAGHLQLEIEAAVKDTFERFYGMAEQQTDIKTNGQIVVTNDDGTLTVTKGVDAET
+                     GYKTITEVLETAAASSQGAHTYTKVTTFIPEPTATVKKRIREEYTVE"
+                     /ID="QHJ73830.1"
+                     /function="head and packaging"
+                     /phrog="1220"
+     CDS             13912..15483
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.16"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tail protein"
+                     /protein_id="QHJ73831.1"
+                     /translation="MSYAEQNYTIDELTEVINAAATGIPPANMQQFSVSAGDTKVSIVA
+                     LEPADTEVDGQLVASCKGFKIVMNDDHYPVDETDGTVVVDHVATGSALQQEVTGLTNDQ
+                     QYYFAAFPYTDHGVVNRAAGLRVLAGSHPNRQTATPKAYVLYGFKRTKADSNPATRVVA
+                     TDMAVGLTPASMNASTGEINLGGWANAWFVTGNKPVMLKSDGTIDYELNPNDYTKKADG
+                     TASDVANTAYDGNAMALFPTCWVKRWQDSTYEYFQVCNIKLNDDFKAYAHQRSDGTIME
+                     WFARSIYDAGVVSNKARSISGLTPNNTVAGGTQLSYAQANGSLWDSDTWSRVALIWDLL
+                     TLMSLNDDVQTAWGYGWYTGMSQASHLKAAGLGNTKGQFWGKRENNTVKVFHLENFWGN
+                     IWKIVQGLVYNTTGKYGVKMTAPYNNSGSGYTATSFGLSGTSGGYQSAHNMSEYGCLPT
+                     TASGSETTYIPDGAWWNTTQQNFARFGGGGYAGLLVGRALAVNDALSASGWHCGLALTC
+                     EQPLAS"
+                     /ID="QHJ73831.1"
+                     /function="tail"
+                     /phrog="5302"
+     CDS             15859..17004
+                     /note="Similar to putative reverse transcriptase in
+                     Lactobacillus phage LBR48 (VOG0979, YP_009168531.1,
+                     755164.D6PSR5_9CAUD), Pfam (PF00078.27), TIGRfam
+                     (TIGR04416). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.17"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Reverse transcriptase"
+                     /protein_id="QIY92826.1"
+                     /translation="MKTYKHLLEQIADKDNVRKAILNASKRKRHRKDVKQVIENIDYHV
+                     EVVHNMLLAGSYKAHVDAPCIVNEGTHHKVRRIRKPHYKYDQIIHHCIIQVLQPILTAP
+                     MYEYSCGSIPKRGAHYGKRRLEKWIRNDAKGTKYVFKMDIKHFYESVDQDVLKSMLKAK
+                     IKDWRALELIYTVIDSCEKGLPLGNYTSQWFANFMLTPLDHYIKEQLHAKYYMRYMDDI
+                     VILGGNKKELHKIHKAIEKYLSERLHLRIKENWQVFRLVYTDRNGRQRGRSLDFMGWQF
+                     YREKTILRESIYLRIVRKARHVGKHTTIQGAQGMISYMGYIKHTDCYGTYRDYIRPYVN
+                     IGKLKKFTSKRAKKGVLKNGVEKSDRNADNTASSTRPRQQP"
+                     /ID="QIY92826.1"
+                     /function="DNA, RNA and nucleotide metabolism"
+                     /phrog="1423"
+     CDS             17066..17281
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by Glimmer3, Prodigal-v2.6.19"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QIY92827.1"
+                     /translation="MPVWKYDEAAISRAEYEKNEAIYSELVVMIEQQAANDSVYGDVLL
+                     QQADAQATLAEQDEVLADILLTVQGV"
+                     /ID="QIY92827.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             17285..17428
+                     /note="Similar to uncharacterised predicted ORF in
+                     Staphylococcus virus 37 (320840.Q4ZCD1_9CAUD, YP_240095.1),
+                     Pfam (PF09693.10), TIGRfam (TIGR01669). ORF predicted by
+                     GeneMarkS-2, Glimmer3, Phanotate-v1.1.2, Prodigal-v2.6.20"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73838.1"
+                     /translation="MSRLYKTVKRYYDKGIYDEADVAVFVRAGSITPEEYELITGEPYE
+                     AE"
+                     /ID="QHJ73838.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             17435..17788
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.21"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73839.1"
+                     /translation="MTPANYISIGALLVSCIMAFVNIKNGKLSNRRADSAEDEQRAQRA
+                     REEQAKDTQVMLTLNNIEKQLNKIDGAIDTVRQDTRDNHDKLLIALESQKSMHKRIDEH
+                     EQRINDLEQALRK"
+                     /ID="QHJ73839.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             17799..18092
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by Glimmer3, Prodigal-v2.6.22"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QIY92828.1"
+                     /translation="MEKRKRIRTAGRWLWEFSKRVVVIMAALYFISFIYAMVCCCIAVE
+                     LAADTTALATLITETNETFRVVVGGYMIKAGVENATKILKNSREDGYDEPQG"
+                     /ID="QIY92828.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             18108..18464
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.25"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73841.1"
+                     /translation="MEQIINNWALIIAAVALVVSVVTAVIKFTNMPTAAQIAKVKEWLL
+                     YAVTMAEKELGGGTGKLKLRYVYDLFLTKFNWLAKVITFEQFSALVDEALEEMKRLLES
+                     NNAVKEIVNNVKEE"
+                     /ID="QHJ73841.1"
+                     /function="unknown function"
+                     /phrog="36029"
+     CDS             18477..19403
+                     /note="Similar to putative N-acetylmuramoyl-L-alanine
+                     amidase in Clostridium phage c-st (12336.Q332B8_CBCP,
+                     VOG4772, YP_398538.1), Pfam Mannosyl-glycoprotein with
+                     endo-beta-N-acetylglucosaminidase (PF01832.20), LysM
+                     (PF01476.20) and SH3 (PF08239.11). ORF predicted by
+                     GeneMarkS-2, Glimmer3, Phanotate-v1.1.2, Prodigal-v2.6.26"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="endolysin"
+                     /protein_id="QHJ73842.1"
+                     /translation="MATAAQVATFIQTIAPLVQKYAKQYGYKVASPIIAQACCESAYGT
+                     SWISKAPYYNFFGMKCGSAWKGRSVSAKTKEEYQVGVLTSIVDNFRAYDSYEEGVEGYF
+                     KFINWSRYANLKTATTPKQYLEYIKADGYATSSTYVNTNMNIINTYGLTKYDNLDLIEA
+                     APVQQPVQPVQQPVQPVQQPTFKATGTAVTTANLRMRAGAGTSFSTLLVVNKGCTVQVD
+                     GTVVNGWYHCKYGNVVGYMSGNYLKNVQTTSSTPAATRTHKVKSGDTLSQIAKKYGTTV
+                     NAIVLANRSKYPKITANYIVVGWELVV"
+                     /ID="QHJ73842.1"
+                     /function="lysis"
+                     /phrog="3513"
+     CDS             19403..19627
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.27"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73843.1"
+                     /translation="MGHDEAVRILAANAACQLQNGCDLCPLLPFLVDHGRQEGYCRENT
+                     SPEKVREAVTVIHQEATLKAVLDGTAKLQ"
+                     /ID="QHJ73843.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     regulatory      19824..19864
+                     /regulatory_class="terminator"
+                     /note="Predicted by FindTerm v2.8.1"
+     CDS             complement(19941..20996)
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.28"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="integrase"
+                     /protein_id="QHJ73845.1"
+                     /translation="MKLPNGYGSVYKLSGKRRNPYIARKTTGWSIDDSGKAKQHFVTVG
+                     YYPTKAAALQALADFNANPYDIQVNTITFKEVYEKWSSEHFELIVPSARRTWISAYNHS
+                     APLHDMRFRDIRVNHLEQTIKDASAGQPTKQRMKSLYNLMYKYALKHEICDKDYAALCN
+                     SVKKGEKVIKRVPFSDNEIETLFSNLAYPFVDMLLIGIYSGFRPQELAILKLSDVDLKE
+                     RTIVGGLKTDAGRNRVVPIHSRVYDLVESCYNKAAAAGCDTLFYDESSQTGKELTYDKW
+                     RGRFKKIMKRFKMQHTPHDTRHTFITKAKESGVDEYILKLIVGHAIDDITEKVYTHRTL
+                     DELKQEIEKIN"
+                     /ID="QHJ73845.1"
+                     /function="integration and excision"
+                     /phrog="1"
+     regulatory      21252..21283
+                     /regulatory_class="terminator"
+                     /note="Predicted by FindTerm v2.8.1"
+     CDS             complement(21262..21624)
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Prodigal-v2.6.29"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transcriptional repressor"
+                     /protein_id="QHJ73849.2"
+                     /translation="MKERVKAIRIALDMSMESFGARLGVTRATISRIESGVNNVTPQML
+                     ISICREFNVNKEYLEAGSGDMFVKVSDDEQLAKLLGAVFTDGDEFVKKTFLALGQLSPQ
+                     QWQLVKDFVDKIKSGT"
+                     /ID="QHJ73849.2"
+                     /function="transcription regulation"
+                     /phrog="2328"
+     regulatory      21669..21697
+                     /regulatory_class="promoter"
+                     /note="promoter predicted by PhagePromoter"
+     regulatory      21717..21745
+                     /regulatory_class="promoter"
+                     /note="promoter predicted by PhagePromoter"
+     CDS             21832..22590
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.31"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73850.1"
+                     /translation="MTQYKTLEAQQSAAKVITGCIDAINNEKGLPYQLGTLTVEYITKY
+                     LAEYRKLIEKDIEESQKAAEAAGDAETVIKIWAANKENGYRAYPPEYEVMFWNVAGEAL
+                     RIPDGKPNHEYQTKFGFDTFEEAALFIESVNVPDAVQVSINDECYDVYPAELQVKGNKM
+                     QEHSRLDFDDVRSFCISKNLYTRGTNEEYTRLANMLFYWQETGQNIDTAKLQIVAQNIL
+                     DHSDTEYELESLMFSLKREAVITSYCVADH"
+                     /ID="QHJ73850.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             22612..22893
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.32"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73851.1"
+                     /translation="MENYRTIEDIQAYSAGYAAAVADMVERDAKRRKRQRAAAQRRKYF
+                     LIQRSVGLVLVAANVLAAYVLDGDITAAVFLVPLGIYLMLTKEQVLDI"
+                     /ID="QHJ73851.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             22911..23114
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.33"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73852.1"
+                     /translation="MRKKQNVDQIIEETQQRTFLENNPQYKEFNDLAKEVAQLPREQQA
+                     KVAIFAQGVIAATAAGVGNAAE"
+                     /ID="QHJ73852.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             23101..23325
+                     /note="Pfam Helix-turn-helix domain (PF12728.7), TIGRfam
+                     DNA binding domain in the excisionase family (TIGR01764).
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.34"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="excisionase and transcriptional regulator"
+                     /protein_id="QHJ73853.1"
+                     /translation="MQQSKNLTPAEAAKILGVSPQYVRVGLQQGVLPIGSAVKMSSRWA
+                     YNIPEAALKNYIEYGGKMQHELTEPARSN"
+                     /ID="QHJ73853.1"
+                     /function="integration and excision"
+                     /phrog="66"
+     CDS             23294..23632
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.35"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73854.1"
+                     /translation="MNLQSQLEVINHSCRVRIIDRRVTGDEFKVFDDYKTFAIDDSGKL
+                     GSHLDRQYLGYKVIALYMRPEISHKRAKELGLIEPLHPEDTPAYSFSDLELRLYYEIVI
+                     EKDEAVHI"
+                     /ID="QHJ73854.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             23663..23935
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.36"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73855.1"
+                     /translation="MATNKELLEQVRTLKGKLVRASHEKRKLEEKNAALAMEIDAAEQL
+                     LINTRNNLAECGEKMLKAQKEAYDWQQAAEGLARMLEELKAQGKW"
+                     /ID="QHJ73855.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             23968..24333
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Phanotate-v1.1.2,
+                     Prodigal-v2.6.38"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73856.1"
+                     /translation="MAQYTGCCVYCGQTQLVVAGEDLTEDEINKLATLQCNCDEAQALQ
+                     KVEQKKTYAEANIKRLFEGDCAGLRHVLLESTGCLAAQNIKKITVTTADGVKATLTAKE
+                     NSIKCERTVTDKKSLED"
+                     /ID="QHJ73856.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             24368..24748
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.39"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73857.1"
+                     /translation="MQQYKQLSIWDILGNIEDNPAAALPCEKCVFSKSACCAYETEGNS
+                     CTDGDKMLLKSDGWHLVDDGRDIPHNKDWQLAECITYYQRTDKYNREKWLVKDSTFKST
+                     QQYKPNNTPEVIAWRYTSESEG"
+                     /ID="QHJ73857.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             24753..25067
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.40"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73858.1"
+                     /translation="MGELRKTTDLVYDILKQDEAARDSDNVLYCKVLEYYGKRLNVDFN
+                     RVSVMSFFSSVKRSQIPSIETVGRCRRKLQEEYYELRGSENVERERRAREKDFRSYAHY
+                     "
+                     /ID="QHJ73858.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             25092..25469
+                     /note="Similar to CMP glycosidase in Gordonia phage
+                     Vendetta (YP_009274002.1) and Gordonia phage Splinter
+                     (YP_009275424.1). ORF predicted by GeneMarkS-2,
+                     Prodigal-v2.6.41"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nucleoside 2-deoxyribosyltransferase"
+                     /protein_id="QHJ73859.2"
+                     /translation="MKTVYICSPYRATSEAQLDNNIDYAQELTRTALNAGLAPITPHLY
+                     LTQVTDDSKPAERERGLAAGTALLLTCDFCVMGNRYGISAGMQGELDAAAGADIPVIVI
+                     DGEDDLGVLLHAVERYTHGEK"
+                     /ID="QHJ73859.2"
+                     /function="DNA, RNA and nucleotide metabolism"
+                     /phrog="355"
+     CDS             25456..25833
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.42"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73860.1"
+                     /translation="MAKNNNMVTADHIKIVLLKFKVELTDRRNGKNSKAEAIEIMGADF
+                     NVDAAQKKVEQKYAALGYDVYDIEVVGQRTYDTTALELYETLPDDELGKQVKGITSLFN
+                     SADNWRTAAEDAAREELKGDI"
+                     /ID="QHJ73860.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             25838..26458
+                     /note="HAMAP Single-stranded DNA-binding protein(MF_00984),
+                     Pfam (PF00436.25), TIGRfam (TIGR00621). ORF predicted by
+                     GeneMarkS-2, Glimmer3, Phanotate-v1.1.2, Prodigal-v2.6.43"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="single strand DNA binding protein"
+                     /protein_id="QHJ73861.1"
+                     /translation="METQNLITLLGIAETDAEPQEFINGTKVKCWHILLRTDRHSGTPD
+                     YEHIYFTEKANSNDLLPFIKGMPVMVIGCMQTAKDFKTNRVLTFVSADYVGVVKGDNYE
+                     LQNDVKIVGKLGKGIEYRVKKSGKRITNLMLEVPSVFRVNTNCYIPCICWQSLADKAKD
+                     WQVGDTVELTGRLQSRDFIKKQEGAEDIKRTSYEVSICNMTRL"
+                     /ID="QHJ73861.1"
+                     /function="DNA, RNA and nucleotide metabolism"
+                     /phrog="44"
+     CDS             26437..27516
+                     /note="HAMAP Glycosyltransferase (MF_01471), Pfam
+                     (PF00534.20, PF13692.6). ORF predicted by GeneMarkS-2,
+                     Glimmer3, Phanotate-v1.1.2, Prodigal-v2.6.44"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="GtrB-like O-antigen conversion"
+                     /protein_id="QHJ73862.1"
+                     /translation="MQYDKAITAQVIIYAELLAPVGGIETFIYNLCCALHKEYDITVIY
+                     KNGDDKQIERLQGLVMTLQLGNELEASCDLLIMNSIFDKPPVQITAKKTLQLIHSCKLR
+                     DFYIIPEGRDEYIAVSQTAKDSYDDEIAAAAGVLHNIGNSKKPRKLLKLLSATRLTEEK
+                     GADRIKALAKALNDAHIPFIWLLFTANEFNGAPKGIVVMQPDLEIKPYIEAADYLVQLS
+                     DNESYCYSIVEAFSLGTPVITTPISVASEIGVEDGVNGYVVPFDMQGIDVKKIYEHIPT
+                     GFAYKSEDKEILKRWRQIIGKPTRKPTYKPTEKMHVEATQDYYDNTLGKLVAKGESHYM
+                     SIPRANKLLSLGLVKQLEN"
+                     /ID="QHJ73862.1"
+                     /function="moron, auxiliary metabolic gene and host
+                     takeover"
+                     /phrog="22739"
+     CDS             27608..28366
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.45"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="replication initiation protein"
+                     /protein_id="QHJ73863.1"
+                     /translation="MPYVKRTTQAGKTIEVEYYYTSQYNRKGQCRADKVKPTKEAQKKI
+                     NNKQAERKLRLLLNANFGYGDYHVILDYIRQEGKPDRTKEEMQTDIAKFLRELRKLYKK
+                     AGKELKYVHVMEIGKKGARHHHLVINKLDTELLQQAWYKAYEGHNRVKVFPLDDTGNYA
+                     DLAAYLIKYTSEHRRDEGALMGKRYNCSRNLVHPEPKYEICTSKAYFRVRDNIKAPKGY
+                     YIPADSIEQGVTSPEYYGYGWFRYTMVRLE"
+                     /ID="QHJ73863.1"
+                     /function="DNA, RNA and nucleotide metabolism"
+                     /phrog="3584"
+     CDS             28382..29035
+                     /note="Pfam soluble lytic Transglycosylase domain
+                     (PF01464.20). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.46"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transglycosylase"
+                     /protein_id="QHJ73864.1"
+                     /translation="MTKAKRVIAITAAALLVLALLGSCFVSDHESDEAAEIKSEPIDTV
+                     ELVIVQQTVQLAEAAETDELQAEYEYIPSTQADEGYISELELIEITEEYGRQYNICPEL
+                     LQAIAMRESTLYLQATNGDCKGLMQISEHWHRERMERLGVTDIYDARGNILLAADYIAK
+                     LRDTTEYGYDLVYVLMRYNMATDTANELYKQGEYTDYALEIIEESKRLERLHGK"
+                     /ID="QHJ73864.1"
+                     /function="other"
+                     /phrog="38211"
+     CDS             29035..29178
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.47"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73865.1"
+                     /translation="MSETFITISAAVVAALLMAAGVAVYKAGRQQAAEDEGRHLRERGG
+                     KT"
+                     /ID="QHJ73865.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             29175..29564
+                     /note="Similar to nuclease in Acinetobacter phage
+                     YMC11/11/R3177 (YP_009593367.1), Pfam VRR-NUC domain
+                     (PF8774.11). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.48"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="anti-repressor Ant"
+                     /protein_id="QHJ73866.1"
+                     /translation="MRHNYRLDTEAGAQEAIFSWCDIMRNTYPELKLLHHIPNGGQRNK
+                     STAIALKRQGVKAGVPDLMLPVARLGYHGLYIELKKSDHTNKPTKLQKEWLEALEQQGY
+                     FTAVCYGYDEAVQTLTDYLESEVTL"
+                     /ID="QHJ73866.1"
+                     /function="transcription regulation"
+                     /phrog="130"
+     CDS             29561..29707
+                     /note="Hypothetical coding region with unknown function.
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.49"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="QHJ73867.1"
+                     /translation="MNTTAIAITGIICLTLLAFQIISEVGKTKRHTTELAAGLREKESE
+                     GKA"
+                     /ID="QHJ73867.1"
+                     /function="unknown function"
+                     /phrog="No_PHROG"
+     CDS             29704..30111
+                     /note="Similar to single-stranded DNA-binding protein in
+                     Streptococcus virus 9874 (YP_009280363.1), Pfam
+                     (PF00436.25), HAMAP (MF_00984), HAMAP (MF_00984), TIGRfam
+                     (TIGR00621). ORF predicted by GeneMarkS-2, Glimmer3,
+                     Phanotate-v1.1.2, Prodigal-v2.6.50"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="single strand DNA binding protein"
+                     /protein_id="QHJ73868.1"
+                     /translation="MNIAALVGRLTKEPDVRYTQEGKAVARFTLAVDDYKDTDFISCVA
+                     FDKQAEWLEKWASKGTKVELTGKIKTGNYTNKDGAKVYYTEVRANSVGFGESKADAENR
+                     GQAQEQQPAQQDNGSGFMDIPDGLDEELPFK"
+                     /ID="QHJ73868.1"
+                     /function="DNA, RNA and nucleotide metabolism"
+                     /phrog="44"
+     CDS             30124..30585
+                     /note="TIGRfam RNA polymerase Sigma-70 factor (TIGR02937).
+                     ORF predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.51"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="transcriptional regulator"
+                     /protein_id="QHJ73869.1"
+                     /translation="MEITQSELSQIITQAVAAGVREYKRQEKAERLTRDRYQDTFNLMK
+                     SYRAALFSTKQEPTEGKLLQQAKLRVNRLKTEIAVEHIDAALKEIEADKAKDGRQLEYE
+                     AFRLYFIEGRTYQYIAEALNVGEATPRRWVTAIVQDLSVMLWGIDDSII"
+                     /ID="QHJ73869.1"
+                     /function="transcription regulation"
+                     /phrog="36"
+     regulatory      30618..30647
+                     /regulatory_class="promoter"
+                     /note="promoter predicted by PhagePromoter"
+     CDS             30671..30967
+                     /note="Similar to uncharacterised hypothetical protein in
+                     Paenibacillus phage PG1 (VOG4543, YP_008129930.1), Pfam HNH
+                     endonuclease domain (PF01844.23), TIGRfam (TIGR02646). ORF
+                     predicted by GeneMarkS-2, Glimmer3, Phanotate-v1.1.2,
+                     Prodigal-v2.6.52"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="HNH endonuclease"
+                     /protein_id="QHJ73870.1"
+                     /translation="MKEWAKDFYTSKSWRQCKAAYLVSQQNICERCGDIAKVVHHKKYL
+                     TPKNINDINITLNWDNLEALCQDCHNKEHHQHTRRYSFDADGNVIQNENNKKQ"
+                     /ID="QHJ73870.1"
+                     /function="DNA, RNA and nucleotide metabolism"
+                     /phrog="119"
+ORIGIN
+        1 atggcaagag cgacagagaa aaagacggca gcagccaaaa aagcagcgcc aaaaaagaaa
+       61 gagttaacca aagaagagca gattaagaaa gagcagcgca gacttagagg tatctttaag
+      121 gacttagacg caaacaagaa aaagttagta acgccgctaa ttgataaggc ggcatttatg
+      181 agcatagaac tagacgagct gcagaaagtc ttagagcacg acggctggat aagcgagtat
+      241 aagaacggcg aaaaccagta cggaactaag cgcagcccag aggcagacac ttatatagct
+      301 ttatccaaaa attacgccgc agtaattaag cagcttgtgg acttagtacc agagccaaag
+      361 cgaaaagcca gcaggctagc cgctttaaga gacgagtaag gcagcaggcg tggcaacagt
+      421 acaaaattac atttacgagt actacgacca gatcacacgc ggcgaggtag tcgtaggcga
+      481 gtggataagg ctagcatata aaatgctggt tgacgaccta gaaaaaggcg caacccagta
+      541 caacgccaaa gctgtaaaca aggctattaa gtttatcgag aatttttgcc accacagcaa
+      601 agggcgcagc gacttactaa agctagagct ttggcaaaag gcagcagtag ccgctatctt
+      661 tggaattgta gacgacaacg gcgttagaat ataccgcgag gtatttatag ttatagctcg
+      721 aaagaacggc aagagcttac tagctagcgc gattattgca tatatggctt acctagagcc
+      781 agagtacggg caagagattt actgcttagc gccaaagcta gaccaagcgg cgcttgtgta
+      841 cgacggcttt tacaaaatgg tactagcaga gccagaacta gaagagctgg cacaaaaacg
+      901 ccgcagtgat atttacattg cggataataa cacgtttatt aagcctatcg cctttaacgc
+      961 acgaaagagc gacggcttta acccgcagct tgtaatatgt gacgagctgg cagcgtggca
+     1021 gggagacggt gggcttaaac aatatgaggt tatgaaaagc gcgctaggcg cacgacggca
+     1081 gccgcttata ctgggcatta ccacagcagg ctacgttaac gacggtattt acgacgagct
+     1141 ttttaagaga gctacaggcg tgcttaaggg cggcagcaaa gagcgcaggc ttttgccgct
+     1201 gctatatacc atagacgacg tagacaagtg gaacgaccta acagagctgc gaaaagctaa
+     1261 ccctaacata aacgtaagcg ttagcgagga attttttaaa gacgaaatag ccgtagcgga
+     1321 gacgagctta agcaagcgta gcgagtttct ttgcaaatat tgcaacatca aacagaacgc
+     1381 cagcaccgca tttttagact acgtagtagt agacggcgcg gcagcagacg taacgctaga
+     1441 ggactttagg ggcagctatt gcgtaggcgg cttagaccta agccagacta cagacttaac
+     1501 agcagctagc gtggtaattg aaaagagcag catattatat gcctttactc aattctttat
+     1561 gccagcgtct aggctagaga cattgcaggc tacggacggc gtaccctacg accttttcgt
+     1621 taaaaagggt atcgtaacgc taagcggcga caactacgta gactataacg acgtatacaa
+     1681 ctggtatatg cagatcatac gagactatga gctatacata ctgcagatag gctacgacag
+     1741 atacagcgct aagtacttaa tagagcagtt agagggcgcg gggctgcatt gcgacgacgt
+     1801 ataccaaggc gagaatttaa cgccagttat acgagagttt gagggaatta taaaagacgg
+     1861 caactttaaa attgctaaca ataacttgct taagagccac tttttaaacg tcgcacttaa
+     1921 gcagaacatg gaaacaagaa agtttcgacc agtcaaaata gagcagcgag cacatataga
+     1981 cggctttgta tcagttatag acgctatgac agtgcggcag aaatggtacg cggaaatagg
+     2041 gcagctgctt agaaacgagt aagcgaggta aaacagtggg gctttttgat tatattttca
+     2101 agaaaaagaa cgaggctatt ttaggcgagt actttaaaat gcttaacacc tacagcccag
+     2161 tatttacgac ctacgacggc ggcgtatacg aaatggactt aacacgcaca gctattaaca
+     2221 gctttgcgac acactgcagc aaacttaagc cagaaatgag cggcagcgca catagaaagc
+     2281 tacagagggc gctagagttt aagcctaact actttacaga cacgccaaag tttatagctc
+     2341 gtatcgcaac tatactagag tgcgagcaca cttgctttat tgcaccagta gaggacaagt
+     2401 acggcgagct ggtaggcttt tacccgctct tacctagcag ctgcgaggta gtagacgtaa
+     2461 aaggacagct gtatttacgc tacacttttt ctaacgggca gcgcggcgct attgagtttg
+     2521 agcgcgtggg cattatgaca agccaccagt accgtaacga ccttttcgga gaaagcaaca
+     2581 caacgcttaa gcctactatg cagcttatgc agaccagcaa cgagggtatt ataaacgccg
+     2641 ttaagaatag cgctaatata cgtttcatgg caaaagtagc aaacatgctt aagccagagg
+     2701 acattaagaa agagcgcgag cgctttacag aggacaactt aagcgcagaa aacactagcg
+     2761 gcatgattat ttacgacagc aagtttgcag accttaagca agtagagagc aagccgtata
+     2821 cgccaaacgc gctgcagaca cagcaaatta acgagaacgt ctgcacacac tttggcacta
+     2881 acatgcacat actgcagaac gactttacag aggaacagtg gaacgcctac tacgagggta
+     2941 aaatagagcc gtttgcaatt cagttaagca tagtgcttag taacatggtt tacacagatc
+     3001 gtgagctagc tactggcaac atgattacgt ttagcgcaaa caggctgcag tatgcgagca
+     3061 acaacaccaa gctacaagta agtacgcagc ttttcgacag ggcgcttatt aaccgtaata
+     3121 cggtaatgga tatatggaac atgccgcacg tagaggacgg cgacaagtac tacatacgta
+     3181 aggaatacac agaggttact aagctggata acggcagcag cgacgacaac acagacgtaa
+     3241 acgagccgca ggacgagcca gcagaggaca ccacaacacc tacagacgag ggggtacagg
+     3301 aataatgcca gtagtaaaag agagagagta cagagaacta gcgcagccgc tagtagcaag
+     3361 aaagagagaa gagaagagcg acgagcctag ctacattgta gagggctacg ctactacttt
+     3421 cgataagcct tacgtgcttt ttgaggacgt agacggcact aagtactacg aggtaatcga
+     3481 cagacacgcg ctagacaacg cggacatgtc agacgttatc atgcagtacg accataacgg
+     3541 cagagtgttt gcacgtaaca gtaataacac gctgcagcta gacttagacg acacaggctt
+     3601 taaggtaaca gcagacttaa gccgcacaga gctagcaaaa ggactgtacg aggatatagc
+     3661 cgcaggcatg attactaaaa tgtcgtgggc tttcgtcgta acaaaagacg cttacgacca
+     3721 gaaaacacac acacgtacag tactagaggt taagaaagta tacgacgtta gcgcggtatc
+     3781 tatcccagct aacgacgata caatgatagc agcacgtaac tatgttaacg ggagacggga
+     3841 actagaacag cgggagcagc tggcaaagcg tgtagcaaaa cttaagatag acacattagg
+     3901 catttaataa ccagatcaca aagaaaaata agagaggtaa agacatgaac ttaaaagaaa
+     3961 tcgaggcacg cattgccgaa attaagaacg aactcgaaac aagagcagca gagcttacag
+     4021 tagaggaaag caacaagctc gtagacgagg cagagcagct taacgagcag cgcaaggcgc
+     4081 ttgttgaggc agcagaaaag agaaacgcag cacttgcaaa cattgcagca ggcgagggca
+     4141 agactgttag aacttttgca gcacctaacg gcgcagcagc aggcgaggac gacgacaagt
+     4201 acgcgtctat ggcttatcgt aaggcattta tgcagtacgt aaccagagga actgctattc
+     4261 ctgcagagta cagaggcgac gctaacacaa agacaaccga cgtaggaaac gtaattccta
+     4321 caaccgttgt agaccagatc attagcaagc tcgaaaacgt aggcggcatt ttggcacttg
+     4381 ttaccaagac agcttacaag ggcggcgttg ctatccctaa gaacactgtt aagccagtag
+     4441 ctacatgggt agcagagggc gcaggcagcg acaagcagaa acttgcagca ggcagcgtta
+     4501 cttttgcata ccataagtta cgttgtgcag tttccgtatc tcttgaagta gacacaatgt
+     4561 ctattgcagc tttcgaggct tacttagtaa gagttatcgt agaggctatg actaagaaac
+     4621 tcgaagagag cattattaag ggcagcggca gcggcgagcc tttgggtatc atcaacacag
+     4681 tagcagacga cggcgacact atcgcaaacg taaacgtagc agcactttca tacaatacac
+     4741 ttatcgacgc agaggcagaa ctgccagaag agtacgaggg taacgctaag tggtgcatgt
+     4801 ctaaaaagac atttatgggc tttatcggac ttgttgacga gaacggacag cctattgcac
+     4861 gcgttaacca cggcttagac ggtaaggtag agcgctactt gctcggtaga gaggtagtat
+     4921 gtacacagca cttgcctagc tttgcagcag cagacactaa cgctaagttt ggtttccttt
+     4981 tcgacttcac taactacgac cttaacacta actatgctat gggcgttaag aagtacgagg
+     5041 acaacgacac agacgaccag atcacaaagg ctatcatgct tgcagacggt aaggtagtag
+     5101 actactacgg acttgtaacc cttaagaaga ttgcaagcgt gtaataccag aaagcgaggg
+     5161 ctaagttatg gcagcaacta agaaagcaac aagcgcggca aagaaaaccg cagcagcacc
+     5221 cgtagcagag aaagagcagc caaaggcagc agctaagaaa gcggctgcag ctatcgaggt
+     5281 aagagcactt acgctttact ttgacgtagc gcttaaccgt atcgtagcag agggcgagac
+     5341 tttcgagact aacgaggaac gcttagaact gcttagcggc ttaggactgg tagagaaagt
+     5401 ataagagcaa caggcgggcg gctttcatgg gctacccgcc tataatgcaa gaaaagaggg
+     5461 cgcagacatg gcaatagtaa ttacacaaac actaacagac aaagttagag tagcgctgcg
+     5521 tatctctaat accagcgagg caataaccgc agaaattaac gacactatag cagcgtgctt
+     5581 gcaagaccta agcgcacagg gcgtagtaaa gctagaccaa gacgacgcgc ttattattag
+     5641 agccgttata ctgtttgccc gtagtgagtt taattacaac ggaaaagcag agcagtttag
+     5701 aaacagctac gacatgcaga aaatgagctt agcgttagac attgactaca acacaccagc
+     5761 agaaagcgag ggctaagtta tggcaatgtg ggcgcatgaa gttacgctac ttaaagaggc
+     5821 agaggctacg ccgcgcacta atagtaacgg ctttcctata gccacagagc ctacagagcg
+     5881 tacagttttt tgcaacaaaa aaagcgtagg ctatgcagag tactttagca gccagcaggc
+     5941 agggcttaca gccagcctta aagtggagct gcacaaggta gactacgagg gcgagttatt
+     6001 agtaatgttt gagggcaagc gctacagcgt gcttaagacc tacgaaatta acgacgacct
+     6061 tatagagctt accttaagcg acttaaggca gcaggcaacg gacgtagagc cgcagccaca
+     6121 gccagacgag ccgcagccca gtaccagctc ttagcctaga aagcgagggg ctactatggc
+     6181 agagattaac accacagggc tagaggaatt aagcgacgct tttatgaggc acgaggcagc
+     6241 agccgacaaa gcagtagagg caatgctaca agcagaggca gacgagtacg ttaaagccta
+     6301 taagcatgca gcagcaggct acggcataag aaagactggc ggctttatcg aaagcataaa
+     6361 agcaggcagc ataaaggacg agggcacagc taaaagtatc gaaatagtac cagaggggcg
+     6421 cacagatcat ggcgcggact atggcggcgg ctattccaac aaaggaaaca agagaaaagg
+     6481 caaagcgcaa aacggcaaag tacgctacgc cacaataggc tatattttcg agtacggcac
+     6541 tagcacactt gcagcgcgcc cgtggttaac acaaggacag ctacaagcag agcagccagc
+     6601 gtatgagaaa gcgcaggaaa tatggggcaa gtacgtagag ggtactttaa gctagagagg
+     6661 ggcgcagcat gagcaacatt aacgagatat tagccgctat cctacctaca gagcgggtaa
+     6721 tttacacagg aaaagacaag ccacgcacct actgcacttt tcagagagtg ctagaaaacg
+     6781 cggcgctaag tgcagacgac gacgagaaag caggacagat tacctatagg gtaacgctct
+     6841 ttagcaagac cgactacgaa agcactttag agactataaa ggcagcgctt aaggcagcgg
+     6901 gcttttatat aaacgccgta gagggcgagg actacgagac agacacaggg tactacaaaa
+     6961 tacctattac agtacaaact atcaaaagtt aagagaggta aaagaccatg actacaggat
+     7021 taaaagacct ttactttgca cctatcacaa tgacagacgg gcaggaagtt tggggcgagc
+     7081 cgcagaaact tgcagaggca attactgcag accttagcgt aaacgtagca gaggctacac
+     7141 tttacgcaga cgacgcgctt aaccagtctg ttaaggaatt tactaacggc actattaagc
+     7201 tgggcgttgc agaccttgca gcagacgtac tggctaacgt attaggacag gctacagacg
+     7261 cagcaggcat tacatgggca agcggcgacg acgtagcgcc ttacgttgca gtaggtttca
+     7321 gagctgcaaa gattaacggc atttaccgtt atatctggct gcagaaagtg cagtttaaaa
+     7381 ttcctagcga gagctttgag actaagggcg agagcattag ctttaagaca ccagaaatcg
+     7441 agggcacttt tatgaaagcc attaaaaacg gcatgtggaa agcagactat acagggctgc
+     7501 ccacaagcgc cgtagctgct agctggttta catcagttaa gacagaaaag gtaacaagcg
+     7561 cctaacagtt aaccagatca taagaaaggt aaagagggcg cagtaaagat agctgcgccc
+     7621 tttataggta aaagataatg agtgcaatta aagacggtag atacgaaata gaacttaacg
+     7681 gcaaaaagta ccatatgctt tttagcctta acgcattgga cgagatacaa gaccgctttg
+     7741 gcggctatga caagctcgat acagctatgg cagagggtaa agacatgatt aaaaatattc
+     7801 gttggctttt taccctgctt ttaaatgagg gtagagaaga gggcgagcca gagcttacag
+     7861 agcagcaagt aggtaggctt atacatgtgg gcaacattgc agacattaag ggcgctatct
+     7921 ttaacgcttt cgctttcggc gcaacaggcg gcgaggaaac agagacagag gaaacagcag
+     7981 gcgagggcga cgcgggaaac atgaagagcg cgcaggaaaa ttagacactg cgcgccttat
+     8041 ttacattgca atagttatgc tgcgcttacc agagcgcgag gcatggaaaa aaacgccgta
+     8101 ccagatcatg cgactattta ggctgcataa agaatataac ggcatgaaca caacgacagc
+     8161 caccaaaggc gaacaactag cgcctataga catagcacta gggggctttt aaatggcaga
+     8221 tacagtagaa aaacaagtca aaactaaaat aagtttcgac ggcgaggcag actacaagaa
+     8281 agccgtagcg gatattaaca gcaaccttaa aacgcttaat agcgaaatga agttagtaac
+     8341 cgcagagtac aaggctaacg gggctagcgt tgaaactttg aaagctaaac aagagacgct
+     8401 gcagaaagtc tacgcagagc agaaagcaaa agtagaggct acagagaaag cactagagcg
+     8461 ctgccgtaag gaaacaggcg aaaacagcga cgctagcaaa aagctagagc agcagcttaa
+     8521 ctaccagaaa gcagctttag tgggcacaga gggcgagctt aaaaagactg ctacagagct
+     8581 agacaacgta gagaaagagg cagacggcgc aggcaaagag cttaagaaga gcggcgacgc
+     8641 agccgcagac ggcgctaaca agtttgaggc agcaggcaac gcgcttaagg ctacaggcgc
+     8701 agccattgca gcagctacag cagctatagc ggcagcagcc gtggcagctg gtaaagctat
+     8761 ttgggatatg gctaacgacg tagcaagcgc tggcgacgag atagacaagg aaagccaaaa
+     8821 actgcagatt agtagcgacc tttaccaaga gcttagctac gcatgcgagc gcagcggggc
+     8881 aagtattgac gaccttaaaa aaggcgttaa gaacattacc gacgagctgg gcaaggcaca
+     8941 gaacggcaca gcaggcgcgg gcgagaaatt cgaaaagcta ggcgtatcac ttaaggacgc
+     9001 taacggcaac cttaagagca cagaaacagt gcttatggag agcatagacg cactggcagc
+     9061 tatggacgac gagacagcca gaaacgctgc agctaacgag atattcggaa agagcgcagc
+     9121 agagctttta ccactgctta acagcggcag cgacggcatt aaagaactta tgcaagaggc
+     9181 agacgcgtac ggcatggtaa tgagtgagga cgcagtaaag gctagcgctg ctttcgagga
+     9241 tagcttaacg agactgcagg gcacttttac agggcttaaa aacagtatcg taagcgagct
+     9301 tttaccgtct cttactactc ttatggacgg ctttagcgac atgctggcag gcaaggacgg
+     9361 cgcagcagaa aaggttaaag agggcgttaa gggcgtagta gacggggtaa cagacatgtt
+     9421 accgcagcta gtaagcatgc tttctactat cgtgcaggct attgcagacg tagcgccaga
+     9481 cattatagca gcactggcag agggaattat aaacgagctg ccagcacttg cagagagtgc
+     9541 gctacagatc atagagaaac ttacagcggc actgcttaaa atgctgccac agcttttgca
+     9601 ggctggcgta cagattatat tacagctggc gcagggtatc gcacaggcat taccgcagct
+     9661 agtaccagct attgtagagg tagtactaga gcttgtagac acgcttatag acaacatacc
+     9721 actacttatt gacgcagctt tgcagctggt aactggctta gcagagggca ttatacaggc
+     9781 aatacccgtt attattgaaa agctaccaga gcttattact agcattgtca acgcgcttat
+     9841 cgagggcata ccgctactta tacagggagc tatacagctc tttatggcac ttgtgcaggc
+     9901 aatacccgta attattgagg cgttaacagc agctttgccg cagatcatag aggcaatagt
+     9961 taacggactt attaacggct tgcctatgat tattgagggc agcatacagt tatttatggc
+    10021 gcttttagag gctataccag taattgtaga ggcgcttata aatgctttgc cgcagatagt
+    10081 acaggctatc gctacaggac ttgcagcagc attgccagag cttgcagcgt ggggcgctaa
+    10141 tatgcttaac ggctttgtta ctatctttag caacgtgctt aatagtgtta ttcagtgggg
+    10201 cagcaacatg cttacgcagg cagtaaccag cattacagct tttgttaacg gcattattaa
+    10261 cacagctaaa gacataccag taaagctata caacgctatc ataggcgcag tagcacaagt
+    10321 gcagcagtgg gggcagagag tgctagagac tgctaaaaac ggtatgaaca tggttaaaaa
+    10381 cggcatactt aatgtgttta gcaacatagg cgagagcttt aagaccgtag gcagcaacat
+    10441 tgttaacggt atctggaacg gcataagcgc tggctgggac tggctaaaag aaaaggttag
+    10501 caacattgcc agcagcttac tagacgcagc aaaggacgct ttaggcattg ccagcccgtc
+    10561 aaagaaattt agagacgagg taggcgtatt tatggcgcag ggtatcggcg taggctttga
+    10621 aaacgaaatg caaagcgtat ctaagcaaat tgctaacgct atccctacag actttgacgt
+    10681 aacgccacat gttactactg gcgtatctgc agcagaatac gtaagcgaga acgggcagca
+    10741 gacgacgtta ttaagccgtg gcgtaaccgt aatacagaac atttacgcaa acacgacaga
+    10801 ctacgctaag cagcagagag aggcagagaa aaactttaga atgatcgcga ggacggtata
+    10861 agcatggcaa agtttataaa ctatgagcgg cttatatatg agaacgaaaa cggcggcgct
+    10921 atagagttta gcgtaggcag cgacttttac gttaacgtct ctaaggacgt aaacggcata
+    10981 gcagacatac gtaatacgct gtatacgtct agctctatgg ggcagcatgg cgagacattt
+    11041 ataagccaga aaattaacag cagagacata gacatagcag gcgtgattaa cagaaaagac
+    11101 aaagacaaca tgcttacgct gcgccgagct atgcaaaaga tacttaaccc agagcttaag
+    11161 gctacgctta catacattta cggcgacttt gtaaaggtaa tagacgtaaa agtagacaac
+    11221 gcgccagtat ttaagcgcgg ggcagtacta gagcagttta cagtacagtt tacttgcccg
+    11281 tctccatttt ggcgcgacca gcaggaaact aagaaagata ttgcgagctg gataggtagc
+    11341 ttttactttc cgctcgaaat acctattaac gagggcatac agtttggcta cagagagcct
+    11401 agcgtaattg tagacgttta caacgagggc gacgtagaca cgggcatgcg agtagctttt
+    11461 aaagctatcg gtactgtagt taacccgctt ttgttgaaca tcaacacggg cgagtttata
+    11521 caagttaacc agacgctagc agcaggcgac acagtaatag ttaacacaga atacggcagc
+    11581 aaaggggcaa cgcttacaag aggcggcgta gatagcgact actttagata catagacgta
+    11641 gacagcactt ttatgcagct taaaataggc gacaacgtat ttagatacaa tgcagccagc
+    11701 ggactagacc agctagaagt atctatttat tacagcccta agtatttagg agtgtaacgc
+    11761 atggagctaa gagtatttac aagagactta gagccgttag gaattgtaga cgagcttata
+    11821 agcacaatat ggcagcctac atactggcag cagggcaact acgacgactg caaactactt
+    11881 gcgcccgtaa cggacaataa caacaacttg cttgtaaagg gcaacatagt agtactgcat
+    11941 ggcgaggcag cagagtacac agacgagtac ggcgagtggc ggcgcgctat gcagattacc
+    12001 tacaggcaca taacaaagga cgaaaacaac acagagcaaa tagagctaca aggctgcttt
+    12061 ttaaagaaat ggctttctaa gcgcgtgctg ctttctaacc agatcataac gggcactaac
+    12121 cagagcatta ttaacgcact ggtagttaac aacgtaggcg acaatgccat aagcgcccgc
+    12181 cagtttgaaa actttattat gttgcagcag gatagcttag gcggcagcag cgtagactac
+    12241 acgaccaagt acggcgacgg actagcagac gcggtatacg agagagcttt aagcggcaag
+    12301 ctgggctacg acatactcgt aaacgagcgt aataggttat acggcttttg gctgtacaaa
+    12361 ggtaacgaca tgagcagcgg caatagcgct ggtaacacgc cctgcatttt tagccgtgac
+    12421 tttgacaacg taacagagca ggactacaca gaaagcatag aaaacatgaa aaacgtatgc
+    12481 tactgcacca gtgctgcaga cgaggacggc acaatatatg cgcaagaggt ttacgaggac
+    12541 gagcaggcgg gcatagatcg cgacgagttt tacgtagaca tgactaatat aagctggact
+    12601 gttaaagacg agcaggggca agagacaaga ctaacgccag agcagtacat agagcttatg
+    12661 actacagagg gctacgcgca gctggacgac tacggcgagg ttatgacgtt tgagagcact
+    12721 attaacacca gtaaaaacct acagtacaag cgcgacttta acgtaggcga catagtaaca
+    12781 acgatagaga aaaactgggg aatacgtata gacgctcgta taaccaaaat aggcgagaca
+    12841 tggcagaacg gtaagcacac gctagaggtt acttttggcg agagcatgcc gactttgcta
+    12901 gataaaatta agaaagtgag gtaaggacat ggcacaaaaa tgctttccgt ttaacagcga
+    12961 cagcggcgac agagtttata aagcagagga ctttagggca tactttgcgc agtttattgg
+    13021 taacggcgta ttttatgcga actctaacgc ccttaaggta gtagaaagta gcggcatgag
+    13081 cgttaacgta aatgcaggcg caggctggat agctggcgca ggatatatta acgacagtgt
+    13141 gctacagctt acgcttgcaa atgcagacgg cgcacttaac cgtatagaca gagtagtatt
+    13201 acgctgcagc tacacagagc gcgacgtata cgtagcagta aagcagggta gcttatcggc
+    13261 acagccaaca gcaccagcac ttacacgtaa cgcagataac tacgagctgg cacttgcaga
+    13321 catttacgta gcagcaggcg ctacaagtat tacgcagcag gatattacag accagaggct
+    13381 taatacaacg ctttgcggta tcgttacggg gcttattgag caggcagaca cgacagacat
+    13441 ttttaaccag tttgaggact acttaacaca gtttaaggcg cagtacattg cagatattga
+    13501 agagtggacg agcgcacagg aaagcgcttt tacatcatgg agcgcagcac agcagcagga
+    13561 gtttacagac tgggtagaca caattagaga cattttggac gaggcgacag caggacactt
+    13621 acagctagaa atagaggcag ccgttaaaga tactttcgag cgtttctacg gcatggcaga
+    13681 gcagcagaca gacattaaaa ctaacgggca gatcgtagta acaaacgacg acggcacgct
+    13741 aacagttact aagggcgtgg acgcagaaac aggctacaag acaattacag aggtactgga
+    13801 aacagcagcc gcaagcagcc aaggcgcaca cacttacaca aaggtaacta catttatacc
+    13861 agagccgaca gccacagtta aaaagcgcat aagagaggag tacaccgtag aatgagttac
+    13921 gcagagcaaa attatactat cgacgagtta acagaggtta ttaacgccgc tgccactggc
+    13981 ataccacccg ccaacatgca gcagtttagc gtatctgcag gcgacactaa agtaagtatc
+    14041 gtagctttag agccagcaga cacagaggta gacgggcagc tagtagcaag ctgcaagggc
+    14101 tttaaaatcg ttatgaacga cgaccactac ccagtagacg agacagacgg cacagtagta
+    14161 gtagaccatg tagcaactgg cagcgcattg cagcaggaag ttacaggact tacaaacgac
+    14221 cagcagtact actttgcagc tttcccttat acagatcatg gcgtagttaa cagggcagca
+    14281 ggcttaagag tacttgcagg cagccaccct aacagacaga cagcaacgcc taaagcatac
+    14341 gtgctttacg gctttaagag aactaaggca gacagcaacc cagctacaag agtagtagct
+    14401 acagacatgg cagtagggct tacacccgcc agcatgaacg caagcacagg cgaaattaac
+    14461 ttaggcggct gggctaatgc gtggtttgta acaggcaaca agccagtaat gcttaagagc
+    14521 gacggcacta tagactacga gcttaaccct aacgactaca caaagaaagc agacggcaca
+    14581 gccagcgacg tagcaaacac agcttacgac ggtaacgcta tggcgctctt tcctacatgc
+    14641 tgggttaagc gctggcaaga cagcacttac gagtatttcc aagtttgcaa catcaaactt
+    14701 aacgacgact ttaaggcgta cgcacaccag cgcagcgacg gtactattat ggagtggttc
+    14761 gcgcgctcta tctatgacgc tggcgtagta agcaataagg cacgctctat tagtgggctt
+    14821 acacctaaca acacagtagc aggcggcaca cagcttagct acgcacaggc taacggcagc
+    14881 ttatgggata gcgacacatg gagcagagta gcccttattt gggatttatt aacgcttatg
+    14941 tctcttaacg acgacgtaca gacagcatgg ggctacggct ggtatactgg catgtcgcag
+    15001 gctagccacc ttaaggcagc aggcttaggc aatactaaag ggcagttttg gggcaagaga
+    15061 gaaaacaaca ccgttaaggt atttcactta gagaattttt ggggcaatat ctggaaaatt
+    15121 gtacaggggc ttgtatataa caccactggc aagtacggcg taaaaatgac tgcaccatac
+    15181 aacaacagcg gcagcggcta tacagctact agctttggct tgtctggtac aagtggcggc
+    15241 tatcagtcag cccacaatat gagcgagtac ggctgcttac ctacaacagc aagcggcagc
+    15301 gaaaccactt atataccaga cggcgcgtgg tggaatacta cgcagcagaa ctttgcccgc
+    15361 tttggcggcg gtggttacgc tggcttgctc gttgggcgcg ctttggctgt gaacgatgcg
+    15421 ctttcggcct cgggttggca ttgcgggctt gccttgactt gcgaacaacc tttagcgtcg
+    15481 taagacgcag ggggaacggg ggagcactcc cccgcgtacc ctatgcgctt taaaagtgta
+    15541 aatatattag gggtttaagg gcacgactta gcggagctgc aagctgcttt tactttgccc
+    15601 gctttggcag caatggtaac aatggcttgc acgttgggcg cgctttgaat gtgaacaatg
+    15661 cgctttcgaa ctcgaattgg aattacgggc ttgcctagac ttttctaatt atggaacatt
+    15721 aacaaaatgt gcccttttat cctacaccgc agggcgttgc aacacgccta gctatttagc
+    15781 aagtggaaat acacccgcaa aaggtaaggg ctagtagtac agaaataacg aaaacccttt
+    15841 aggagaataa gtcacaactt gaaaacctac aaacaccttt tagagcagat cgcagacaaa
+    15901 gacaacgtaa gaaaggcaat acttaacgca agcaagagaa aaagacatag aaaagacgtt
+    15961 aaacaagtga tagagaatat agactaccac gtagaagtag tacacaacat gctacttgct
+    16021 ggcagctata aggcacacgt agacgcgccg tgtattgtta acgagggtac gcaccacaaa
+    16081 gtacggcgca tacgcaagcc acattacaag tacgaccaga ttatacacca ctgtattata
+    16141 caagtactgc agccgatatt aaccgcacct atgtacgagt acagctgcgg cagtattcca
+    16201 aagagaggcg cacactacgg caagcggcgg ctagaaaagt ggataaggaa cgacgcaaaa
+    16261 ggcactaagt atgtttttaa aatggatatt aagcactttt acgagagtgt agaccaagac
+    16321 gtacttaaga gcatgctaaa ggctaaaata aaagactggc gggcactaga gcttatatac
+    16381 acagttatag acagctgcga aaagggctta ccgttaggca attatactag ccagtggttt
+    16441 gcaaacttta tgctaacgcc actagaccac tacataaaag agcagctgca cgctaagtac
+    16501 tatatgcgat acatggacga catagtaata ctgggcggca acaagaaaga actgcacaag
+    16561 atacacaagg ctatagagaa gtacttaagc gagcgcttac acttacgcat taaggaaaac
+    16621 tggcaagtat ttaggcttgt atataccgac aggaacggac ggcagcgcgg cagatcacta
+    16681 gactttatgg gctggcaatt ttaccgcgag aaaaccatac tacgcgaaag catttactta
+    16741 cgcattgtac gcaaggcaag gcacgtaggt aagcatacga ccatacaagg cgcgcaaggt
+    16801 atgattagtt acatgggcta tattaagcat acggactgtt acggcactta cagagactat
+    16861 atacgcccgt atgtgaatat aggaaaacta aagaaattca catcaaaaag agctaagaaa
+    16921 ggagtgctaa aaaatggagt ggagaaaagc gacaggaacg cagacaacac agccagcagt
+    16981 actagaccta gacagcagcc ctagtacggt ttacatacga aagaacatta ccaaagcgac
+    17041 agtaagagac gcagagggcg ttaaagtgcc cgtatggaaa tacgacgagg cagcaattag
+    17101 ccgcgcggag tatgagaaaa acgaggcaat ttacagcgag cttgtagtaa tgattgagca
+    17161 gcaggcagct aacgacagtg tttacggcga cgtactttta cagcaggcag acgcacaggc
+    17221 aacgctagca gaacaagacg aggtactagc agacatttta cttacagtac agggggttta
+    17281 aaccatgagc agactttata agaccgtaaa acgttactat gacaaaggca tttacgacga
+    17341 ggcagacgta gcagtatttg ttagagcggg tagcattaca ccagaagagt acgagcttat
+    17401 tactggcgag ccttacgagg cagagtaata gcgtatgaca ccagcaaact acataagcat
+    17461 aggcgctttg ctcgtttcct gcattatggc ttttgtgaac atcaaaaacg gaaagctaag
+    17521 caacagacga gcagacagcg cagaggacga acagagggcg cagcgcgcca gagaggaaca
+    17581 agcgaaagac acacaagtaa tgcttaccct taacaatatc gagaaacagc ttaacaagat
+    17641 agacggcgcg atagatacag tgcgacagga cacacgcgac aaccacgaca agctacttat
+    17701 agcgctggaa agccagaaga gcatgcacaa gcgtatagac gagcacgagc agcgtattaa
+    17761 cgacttagag caggcactta gaaagtaggg cagtagaagt ggaaaagaga aagcgcataa
+    17821 gaactgcggg gcgctggcta tgggaattta gcaagcgcgt tgtagtgatt atggcggcac
+    17881 tctattttat atcttttatc tatgctatgg tatgctgctg catagctgta gagcttgcag
+    17941 cagacaccac agcgctagct acgcttatta cagagactaa cgagacattt agagtagtag
+    18001 taggcggcta catgataaaa gcaggagtag agaacgccac caagatacta aaaaatagcc
+    18061 gcgaggacgg ctacgacgag ccacagggct agaaaagagg tataaacatg gagcagatta
+    18121 ttaacaactg ggcgcttatc attgcagcag tagcgctcgt agtatcagtg gtaacagctg
+    18181 taattaagtt taccaacatg ccaacagctg cccagatcgc aaaagtaaaa gagtggctgc
+    18241 tttatgcagt gactatggca gagaaagagc taggcggcgg cactggcaag ctaaagctac
+    18301 gctacgtgta cgacttgttt ttaactaagt ttaactggct ggcaaaagta attactttcg
+    18361 agcagtttag cgcactggta gacgaggcac tagaggaaat gaaacgccta ttagagagca
+    18421 ataacgcagt aaaagaaatt gtaaataacg ttaaagagga atagggggcg cagatcatgg
+    18481 caacagcagc acaagtagca acatttatac agacgatagc gccgctagta caaaagtacg
+    18541 ccaagcagta cggctacaag gtagctagcc ctattattgc gcaagcgtgc tgcgagagcg
+    18601 catacggtac aagctggata agcaaagcac cgtattataa ttttttcggc atgaagtgcg
+    18661 gcagcgcatg gaaagggcgc agcgtttctg ctaagacaaa agaagagtac caagtaggcg
+    18721 tacttaccag cattgtagac aactttagag catacgacag ctacgaagag ggcgtagagg
+    18781 gctactttaa gtttattaac tggagtagat acgctaacct taagacagcc acaacaccaa
+    18841 agcagtactt agagtacatc aaagcagacg gctacgcgac cagcagcacg tacgttaata
+    18901 caaacatgaa tattattaac acttacgggc taactaagta cgataatttg gacttaatcg
+    18961 aggcagcgcc agtgcagcag ccagtacagc cagtgcagca gccagtacag ccagtgcagc
+    19021 agcctacttt taaggcgaca ggcacagcag ttacgacagc taacttacgc atgagggcgg
+    19081 gagctggcac gagctttagc acactcttag tagttaacaa gggctgcacc gtacaagtag
+    19141 acggcacagt agttaatggc tggtatcatt gcaaatatgg taacgtagtg ggctacatga
+    19201 gcggcaacta ccttaagaac gtacaaacaa ccagcagcac gcctgctgcc acacgcacac
+    19261 acaaagtaaa gagcggcgac acccttagcc agatcgcaaa gaaatacggc acaaccgtta
+    19321 acgctatcgt actggctaac cgcagcaagt accctaagat tacagctaac tatattgtag
+    19381 tgggctggga gcttgtagta taatggggca cgacgaggca gtaagaatac tagcagctaa
+    19441 tgcagcatgc cagctgcaga acggctgcga cttatgcccg ctgctgccgt ttctggtaga
+    19501 tcatggacgg caagagggtt actgcagaga gaatacaagc ccagagaaag tgcgagaggc
+    19561 agttacagtt atacaccaag aggcgacgct taaggcagtc ttagacggta cggcaaagct
+    19621 gcagtaagtg acacgtaact aacaaccgat agagaaaagc ccagaaaatg cgtgcccgcc
+    19681 gtttctatcg aagaggctgc aaaggctggc aagttttaag aaacgccgta gtttctaggc
+    19741 tttgcaaaaa tctaaaacaa tgtgagatag tacaaaatag tacgggtaac taacacataa
+    19801 ctaacaagta actaacacac gtaactaaca aaagagctaa ccagtatagc agctggctag
+    19861 ctcttttttc gtacgcaact tatacacaac ttttacgcaa cttgtgcaca agtacaaaat
+    19921 ctaacaatta tgttagaatg ttagtttatt ttctctattt cctgcttaag ctcgtctaat
+    19981 gttctatgcg tatatacctt ttctgttatg tcgtctatgg cgtgccctac aatgagctta
+    20041 agtatatact cgtctacgcc gctttctttc gccttagtta tgaacgtgtg gcgggtatcg
+    20101 tggggcgtgt gctgcatttt aaagcgtttc ataatctttt taaagcgccc gcgccactta
+    20161 tcgtacgtaa gctctttacc agtctggctg ctttcatcat aaaagagggt atcgcagcca
+    20221 gcggcagcag ctttgttata gcagctttcg accagatcat aaacgcggct atgtatcggt
+    20281 acaaccctat tgcgccctgc gtctgttttt aagccgccta ctatagtacg ctcttttaag
+    20341 tctacgtcgc ttagcttaag tatagctagc tcttgtggac gaaaaccgct atatattcct
+    20401 ataagcagca tgtctacaaa cgggtaagcc agattactaa acagcgtttc tatttcatta
+    20461 tcagagaacg gcacacgctt aataaccttt tcgccctttt taacgctatt gcacagcgcc
+    20521 gcgtagtctt tgtcgcatat ttcatgctta agagcgtatt tatacatgag attataaagg
+    20581 cttttcatgc gctgcttagt gggctgccct gctgacgcgt ctttaatagt ttgctctaag
+    20641 tggtttacgc gtatatctct aaagcgcatg tcgtgcagcg gggcactatg gttatacgcg
+    20701 cttatccatg tacggcgggc gctgggtact attagctcga agtgttcact agaccacttt
+    20761 tcgtatactt ccttaaatgt aatcgtattt acttgtatgt cgtaggggtt agcgttgaag
+    20821 tctgccagcg cttgcagcgc agcagcctta gtaggataat agccgactgt tacgaaatgc
+    20881 tgcttagctt tgccgctatc atcaatagac cagcccgtag ttttacgggc tatatatggg
+    20941 ttacgccgtt tgccagatag tttataaaca gagccgtagc cgtttggtag tttcatataa
+    21001 tcacgctttc gtatgtaaaa tgtgtaaaaa cgctcttaaa agtgactaaa aaggggatat
+    21061 agtgactaaa aagggcgtta atatgtctgt accgcaaaat atattaagaa agtgaggtac
+    21121 taagacatga gtaacaagga acttaagcag cagatcatag acgcgctgga cgcagttaac
+    21181 gaccagcagg cgcttaaaat catactgcag tttatcttag gcataaaaga caagctaata
+    21241 aggtaaaaaa taagcggcgc tttacgtgcc gcttttaatt ttgtctacaa agtcttttac
+    21301 tagctgccac tgctgcgggc taagctgccc tagcgctaag aaagtctttt taacgaactc
+    21361 gtcgccgtct gtaaatacag cgcccagcag tttagctagc tgctcgtcgt cggacacttt
+    21421 aacgaacatg tcgccgctgc cagcctctaa gtattcttta ttaacgttaa actctctgca
+    21481 gatactaata agcatttgag gggtaacgtt attaacgccg ctttctattc tggaaatagt
+    21541 agcgcgcgta acaccgaggc gagcgccgaa actttccata gacatatcta acgctattct
+    21601 aattgcttta actctttctt tcatagtctc aattccttaa taagtataaa atgccttttt
+    21661 ctacctagat tataaggcgt aaagttacta aacgcaacag aaatataaat tatatgttga
+    21721 cacgcgtacg cgacgtaact ataatgttac atatagaaac acagcagcac tacatttagt
+    21781 acatgcggaa acgcaaaacc acaatttaac ttacgaaaga gaggtaacaa catgacacag
+    21841 tacaagacat tagaggcaca gcagagcgcg gcaaaggtta ttacaggctg catagacgct
+    21901 attaacaacg aaaagggctt accgtaccag ctgggcacat taacagtaga gtacataacg
+    21961 aaatacttag cagagtatag aaagttaatc gaaaaggaca tagaagagag ccagaaagca
+    22021 gcagaggcag caggcgacgc agaaacagtt attaagatat gggcagcaaa caaagagaac
+    22081 ggctacagag cttacccgcc agagtatgaa gtaatgtttt ggaatgttgc aggcgaggct
+    22141 ttaagaatac cagacggaaa gcctaaccat gaataccaaa ctaagtttgg ctttgacact
+    22201 ttcgaagagg cagcgctttt tattgaaagc gtaaacgtac cagacgcagt acaagtaagt
+    22261 attaacgacg agtgctacga cgtttaccca gcagagctgc aagtaaaggg caataaaatg
+    22321 caagaacaca gccgcctaga ctttgacgac gtacgcagct tttgtataag caaaaacctt
+    22381 tacacacgag gcactaacga ggaatacaca cgccttgcta atatgctttt ctactggcag
+    22441 gaaacagggc agaacataga cacagctaag ctgcagatag tagcgcagaa tatcttagac
+    22501 cacagcgaca cagagtacga gctagaaagc cttatgtttt cacttaagcg cgaggcagtt
+    22561 attactagct actgcgtagc agatcactaa acgacagagg gggcagcggg tatggaaaac
+    22621 tacagaacta tagaagatat acaagcatat agcgcaggct atgcagcagc agtagcagac
+    22681 atggtagaaa gagacgcaaa acgcagaaag cggcaaaggg cagcagccca gcgccgcaag
+    22741 tactttttaa tacagcgcag cgtagggctt gtgctggtag cagcaaacgt actagccgct
+    22801 tacgtattag acggcgacat aacggcggca gtattcctag taccgttagg catttactta
+    22861 atgcttacca aagagcaagt actagacatt taatacgagg ttaaaaggaa atgagaaaaa
+    22921 agcagaacgt agaccagatc atagaagaga cacagcagag gacattttta gagaataacc
+    22981 cacagtacaa agagtttaac gaccttgcaa aagaagtagc gcagctgcca agagagcagc
+    23041 aggcaaaagt agctattttc gcacagggcg ttatagctgc gacggcagca ggggtaggaa
+    23101 atgcagcaga gtaagaactt aacgccagca gaggcggcaa agatattagg cgtaagccca
+    23161 caatatgtac gcgtaggctt gcaacagggc gtattaccga taggcagcgc cgttaaaatg
+    23221 tctagccgct gggcgtacaa cataccagag gcagcactta aaaactacat agagtacggg
+    23281 ggaaaaatgc agcatgaact tacagagcca gctagaagta attaaccata gctgccgcgt
+    23341 acgtatcata gacaggcggg taacgggcga cgagtttaaa gtattcgacg actacaaaac
+    23401 gtttgcaata gacgacagcg gcaagctggg cagccactta gacagacagt acttaggcta
+    23461 caaggttata gcactttata tgcgcccaga gataagccac aagagagcta aagagctggg
+    23521 cttaattgag ccactgcacc cagaggacac gccagcatat agctttagcg acttagagct
+    23581 aaggctttac tacgaaatag taatagagaa agacgaggca gtacatattt aaggacacat
+    23641 gcgacagagg ggcgcgtaga tcatggcaac taataaggaa ttattagagc aagtacggac
+    23701 gcttaaaggc aagctcgtaa gagccagcca cgagaaaaga aaactagaag agaaaaacgc
+    23761 agcactagct atggagatag acgcagcaga gcagctgctt attaacacca gaaacaactt
+    23821 agcagagtgc ggcgagaaaa tgctaaaagc gcaaaaagag gcttacgact ggcagcaggc
+    23881 agcagagggg ctggcacgca tgctagaaga gcttaaggcg cagggcaagt ggtaactaca
+    23941 aacacgcaac gaaagagagg tagaaacatg gcacagtata cgggctgctg cgtttattgc
+    24001 gggcagacac agttagtagt agcaggcgag gacttaaccg aggacgaaat taacaagctg
+    24061 gctactttgc agtgtaattg cgacgaggca caggcactac agaaagtaga gcaaaagaaa
+    24121 acatacgcag aggcgaatat aaaaagactt ttcgagggcg actgcgcagg gcttagacat
+    24181 gtgctactag aaagcacagg ctgcttagca gcgcagaaca ttaagaaaat tacagtaaca
+    24241 accgcagacg gcgtaaaggc aacgcttaca gctaaagaaa atagtattaa atgcgaaaga
+    24301 acggtaacag ataaaaagag cttagaggac taagcaccag atcattaaca cgcgagaggt
+    24361 aataagcatg cagcagtata agcagctaag tatatgggat attttaggaa atatagagga
+    24421 caacccagca gcagcgctgc cgtgtgaaaa atgcgttttt agtaagtctg catgctgcgc
+    24481 ttatgagaca gagggcaaca gctgcacaga cggcgacaaa atgttactta agtctgacgg
+    24541 ctggcactta gtagacgacg ggcgagacat accgcataac aaagactggc agctagcaga
+    24601 gtgtattact tattaccagc gtacagacaa gtacaaccgc gagaaatggc tagtaaaaga
+    24661 cagcaccttt aaaagtacac aacagtataa acctaacaac acgccagagg taatagcatg
+    24721 gcgctacaca agcgaaagcg agggctaaaa gcatggggga actaagaaag acaacagacc
+    24781 tagtatacga cattttaaag caggacgagg cggcacgaga cagcgacaac gtactttact
+    24841 gcaaagtctt agagtattac ggcaagcgcc ttaacgtaga ctttaacagg gtttctgtaa
+    24901 tgagcttttt tagcagcgta aaacgcagcc agataccgag catagaaaca gtaggacgct
+    24961 gcaggcgaaa gctgcaagag gaatactacg agcttagagg cagcgagaac gtagagcgcg
+    25021 agaggcgggc gcgcgaaaag gactttagga gctacgcaca ttactaataa ttgttgggag
+    25081 atatgggaga aatgaaaaca gtatatatat gcagccctta tagggcgaca agtgaggcac
+    25141 agctagacaa taacatagac tatgcgcagg aactaacacg cacagcctta aacgcaggac
+    25201 tagcaccgat aacgccgcac ttgtatttaa cgcaagttac ggacgatagc aaaccagcag
+    25261 aacgcgagcg aggcttagca gctggtacag cgctattact aacttgcgat ttttgcgtta
+    25321 tgggcaaccg ttacggcata agcgctggca tgcagggcga gctagacgcg gcagcaggcg
+    25381 cagacatacc agtaatagtt atagacggcg aggacgactt aggcgtatta ctccatgccg
+    25441 tagagaggta cacacatggc gaaaaataac aacatggtaa cagcagatca cataaaaata
+    25501 gtgctgctta agtttaaagt tgagcttaca gacaggcgca acggaaagaa cagcaaagca
+    25561 gaggctatag agattatggg cgcagacttt aacgtagacg cagcccagaa aaaagtagag
+    25621 cagaaatacg cagcgctggg ctacgacgtt tacgacatag aggtagtagg gcagcgtaca
+    25681 tacgatacta cagccttaga gctttacgag acactaccag acgacgagct aggcaagcaa
+    25741 gtaaaaggca ttacaagcct ttttaatagc gccgataact ggcgcacagc tgcagaggac
+    25801 gcagcgcgag aagagcttaa gggggatata tagacctatg gaaacacaaa accttattac
+    25861 gctgctagga attgcagaaa cagacgcaga gccgcaagag tttattaacg gcactaaagt
+    25921 taagtgctgg catatcctgc ttaggacaga tagacacagc ggcacgccag actatgagca
+    25981 catctatttt acagagaaag ccaacagcaa cgacttacta ccatttatta agggcatgcc
+    26041 cgttatggtt ataggctgca tgcagacggc taaggacttt aaaacaaata gagtgcttac
+    26101 ttttgtgtct gcagattatg tgggcgtggt taagggggat aactacgagc tacagaacga
+    26161 cgtaaagata gtaggcaagc tgggcaaggg catagagtac cgcgtaaaga agagcggcaa
+    26221 gcgcattact aacttaatgc tagaagtacc cagcgtattt agggttaaca ctaactgcta
+    26281 tataccttgt atctgctggc agtcactagc agacaaagct aaagactggc aagtaggcga
+    26341 cacagtagaa cttacaggca gactgcagag ccgcgacttt atcaaaaaac aagagggcgc
+    26401 agaggatatt aagcgcacca gctacgaggt atctatatgc aatatgacaa ggctataaca
+    26461 gcacaagtaa ttatatacgc agagctacta gcaccagtag gcggcataga gacttttata
+    26521 tataacctat gctgcgcact ccataaagag tacgacataa cggttatata taagaacggc
+    26581 gacgacaagc aaatagagag gctgcagggc ttagtaatga cgctgcagtt aggcaacgag
+    26641 ctagaggcta gctgcgactt gcttattatg aatagcattt ttgacaagcc gcccgtacag
+    26701 atcacagcaa aaaagacgct gcagcttata cacagctgca agctgcgcga cttttacata
+    26761 ataccagagg ggcgcgacga gtatatagca gtaagccaga cggcaaagga cagctacgac
+    26821 gacgagatag cagcggcagc aggcgtactg cacaatatcg gaaacagcaa aaagcctaga
+    26881 aagctgctta agctcttaag cgctactagg cttaccgagg aaaagggcgc agaccgtatt
+    26941 aaagcgctgg caaaggcgtt aaacgacgcg cacataccgt ttatatggct gctatttact
+    27001 gctaacgagt ttaacggagc gcctaaaggc attgtagtaa tgcagccaga cttagaaatt
+    27061 aagccatata ttgaggcggc agactactta gtgcagcttt cagacaatga aagttattgc
+    27121 tacagcattg tagaggcgtt tagcttaggc acgccagtaa ttactacacc tattagcgta
+    27181 gcaagtgaaa taggcgtaga ggacggcgtt aacggctatg tagtgccgtt tgatatgcag
+    27241 ggcatagacg ttaaaaagat atacgagcat atacctactg gctttgctta caagagcgag
+    27301 gacaaggaaa tattaaagcg ctggcggcag atcataggca agccaactag aaagcctaca
+    27361 tataagccaa cagagaaaat gcacgtagag gcgacgcagg actactacga caatacgcta
+    27421 ggcaagctgg tagcaaaagg cgagagccac tacatgagta taccgagagc aaacaagctg
+    27481 ctaagtttgg gcttagtaaa gcagctcgaa aattaactac ttatatataa gaagaaacag
+    27541 gcgcggtaag cgctcttaaa acacttgata aaagtattaa cttaccgaca gggggataaa
+    27601 aaatattatg ccttatgtta agagaacaac ccaagcagga aagactatag aggtagagta
+    27661 ctactacacc agccagtaca accgtaaagg gcaatgcaga gccgataaag taaagcctac
+    27721 taaagaggca cagaaaaaaa ttaacaataa gcaggcagag agaaagctaa ggctactgct
+    27781 taacgctaac tttggttatg gagactacca cgtaatactt gactacatca gacaagaggg
+    27841 taagccagat cgtaccaaag aggaaatgca gacagatata gctaagtttc tacgagagct
+    27901 tagaaagcta tacaagaaag caggcaaaga gcttaagtac gtgcatgtaa tggagatagg
+    27961 caaaaaggga gcacgccacc accacttagt aatcaataag ctagatacag agctattgca
+    28021 gcaggcgtgg tacaaagcat acgaggggca caaccgcgtt aaggtattcc cactagacga
+    28081 cacaggcaac tacgcagacc tagcggcata tctgattaag tacaccagcg agcaccgcag
+    28141 agacgagggc gcacttatgg gcaagcgcta taactgcagc cgcaacctag tacacccaga
+    28201 gcctaagtac gagatatgca caagcaaggc atactttaga gtgcgcgaca acatcaaagc
+    28261 accaaagggc tactacatac cagcagacag catagagcag ggcgtaacaa gcccagagta
+    28321 ctacggctat ggctggttta gatacacaat ggtacggcta gagtaaagag aggggcgtaa
+    28381 catgactaag gcaaagagag taatagcaat aacggcagcg gcactacttg tactggcatt
+    28441 actgggcagc tgctttgtat cagatcacga gagcgacgag gcagcagaga ttaagagcga
+    28501 gcctatagac acagtagagc tggttatagt gcagcagaca gtacagctgg cagaggcagc
+    28561 agaaacagac gagctgcagg cagagtacga gtatataccc agcacgcagg cagacgaggg
+    28621 ctacataagc gagctagagc ttatagagat taccgaggaa tacggcagac agtacaatat
+    28681 atgcccagag ctgctgcagg caatagcaat gcgagagagc acgctatact tacaggctac
+    28741 taacggcgac tgcaaagggc ttatgcagat tagcgagcac tggcacagag aacgcatgga
+    28801 gcgcttaggc gttacagaca tatacgacgc aagaggcaac atactgctag ccgcagacta
+    28861 catagcaaag ctaagagaca ccacagagta cggctacgac ttagtatacg tgcttatgcg
+    28921 ctataacatg gcgacagaca cagcaaacga gctgtataaa cagggcgagt atacagacta
+    28981 tgcgctagag atcatagagg aaagcaaacg cctagagagg ttacacggga aataatgagc
+    29041 gagacattta taactataag tgcagcagta gtagcagcgc tgcttatggc agcaggcgtg
+    29101 gcagtatata aagctggcag gcagcaggca gcagaggacg agggcaggca cttaagagaa
+    29161 cgagggggca agacatgagg cacaactaca gactagacac agaggcgggc gcgcaagagg
+    29221 ctatatttag ctggtgcgac attatgcgca acacttaccc agagcttaag ctactgcacc
+    29281 acatacctaa cggcgggcag cgtaacaagt ctacagccat tgcgctaaag aggcagggcg
+    29341 taaaggctgg cgtaccagac ttaatgctac cagtagcaag gctgggctat cacggcttat
+    29401 atatcgagct taagaagagc gaccacacaa acaagccaac taagctgcag aaagagtggc
+    29461 tagaggcact agagcagcag ggctacttta ctgcagtatg ctacggctac gacgaggcag
+    29521 tacaaacact aacagactac ttagaaagcg aggtaacact atgaacacaa cagcaatagc
+    29581 aattacaggc attatctgct taacgctctt agcgtttcag atcattagcg aggtaggcaa
+    29641 gacaaagaga catactacag agcttgcagc aggacttaga gagaaagaaa gcgagggcaa
+    29701 ggcatgaaca tagcagcgct ggtaggtagg cttacaaaag agccagacgt aaggtacacg
+    29761 caagagggca aagcagtagc gcgctttacg ctggcagtag acgactacaa agacacagac
+    29821 tttattagct gcgttgcttt cgataagcag gcagagtggt tagagaagtg ggcaagcaaa
+    29881 ggcacaaagg tagagttaac aggaaagatt aagacgggca actacacaaa caaagacggc
+    29941 gctaaggttt attacacaga ggtaagagct aatagcgtgg gctttggaga gagcaaggca
+    30001 gacgcagaga acagaggaca ggcacaagag cagcagccag cacagcagga caacggcagc
+    30061 ggctttatgg atataccaga cgggctagac gaggaactac catttaagtg agagggggcg
+    30121 cgcatggaga ttacgcagag cgagttaagc cagatcataa cccaagctgt agcagctggc
+    30181 gtaagagaat ataagcgcca agagaaagca gagcggctaa cgcgtgacag ataccaagac
+    30241 acgtttaacc ttatgaagag ctacagggct gcgctattca gcactaagca agagcctaca
+    30301 gagggcaagc tattgcagca ggctaagcta agggttaaca ggcttaagac agaaatagca
+    30361 gtagagcata tagacgctgc gctaaaagag atagaggcag acaaagctaa agacggcagg
+    30421 cagttagagt acgaggcgtt taggctttac tttatcgagg ggcgcacgta ccagtacata
+    30481 gcagaggcgc ttaacgtagg agaggcaaca ccgcgccgct gggtaacagc aatagtgcaa
+    30541 gacctaagcg taatgctatg gggaatagac gacagcataa tataaccagc aaataaaatg
+    30601 gcagctgtga ttttttcttg atatttttta gcactaaagt atttaataca atgttattga
+    30661 gtgagagagt atgaaagagt gggcaaagga cttttacaca agcaagagct ggcggcaatg
+    30721 caaagcagct tacctagtaa gccagcagaa tatatgcgag cgctgcggcg acattgcaaa
+    30781 ggtagtacac cacaagaaat acttaacacc taagaatatc aacgacataa acataacgct
+    30841 taactgggac aacctagagg cgctatgcca agactgccat aacaaagaac accaccagca
+    30901 cacgaggcgc tacagtttcg acgcagacgg caacgtaata caaaacgaaa ataataaaaa
+    30961 acaatgatta ttttttaaaa atattttcgt ttaaccatgc ggtagatact ccccccagta
+    31021 ttttaaaaat attaaggggt acagtaaccg aggggggaac tctaatttta ctccgcaggc
+    31081 gggcgcacgc gtagtgtagt agggggggtg gggtagagag gtaaggac
+//

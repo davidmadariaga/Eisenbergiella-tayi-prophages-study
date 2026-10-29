@@ -1,0 +1,3 @@
+hit_id	replicon	hit_pos	hit_sequence_length	gene_name	i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match
+GEADKP_01215	GCF_027682485	238	301	acriia21	1.4e-20	72.2	0.829	0.339	18	119
+GEADKP_01475	GCF_027682485	290	131	acriia21	8.8e-19	66.4	0.837	0.794	11	114

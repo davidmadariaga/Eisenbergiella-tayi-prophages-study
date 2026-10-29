@@ -1,0 +1,5 @@
+hit_id	replicon	hit_pos	hit_sequence_length	gene_name	i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match
+MBLIIJ_07800	GCF_001717125	1537	346	vcrx093	1.9e-32	111.3	0.713	0.775	21	288
+MBLIIJ_25055	GCF_001717125	4954	131	acriia21	1.6e-18	65.5	0.829	0.786	11	113
+MBLIIJ_28465	GCF_001717125	5632	246	acriia21	2.2e-12	45.6	0.705	0.337	18	100
+MBLIIJ_29620	GCF_001717125	5859	356	vcrx093	1.8e-35	121.2	0.874	0.916	25	350

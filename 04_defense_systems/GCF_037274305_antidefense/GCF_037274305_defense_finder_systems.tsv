@@ -1,0 +1,4 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+GCF_037274305_acriia21_1	Anti_CRISPR	acriia21	Antidefense	PIIFJM_28055	PIIFJM_28055	PIIFJM_28055	1	acriia21
+GCF_037274305_acriii1_2	Anti_CRISPR	acriii1	Antidefense	PIIFJM_30835	PIIFJM_30835	PIIFJM_30835	1	acriii1
+GCF_037274305_apyc1_3	Anti_Pycsar	apyc1	Antidefense	PIIFJM_32740	PIIFJM_32740	PIIFJM_32740	1	apyc1

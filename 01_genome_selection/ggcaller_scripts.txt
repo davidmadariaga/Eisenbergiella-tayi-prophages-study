@@ -1,0 +1,3 @@
+mamba activate ggc_env
+ls -d -1 $PWD/*.fasta > input.txt
+ggcaller --refs input.txt --annotation sensitive --aligner def --alignment core --out my_analysis --threads 10

@@ -1,0 +1,3 @@
+replicon	hit_id	gene_name	hit_pos	model_fqn	sys_id	sys_loci	locus_num	sys_wholeness	sys_score	sys_occ	hit_gene_ref	hit_status	hit_seq_len	hit_i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match	counterpart	used_in	type	subtype	activity
+GCF_001722655	NDMBHD_09755	acriia21	1931	defense-finder-models/ADF/Anti_CRISPR/acriia21	GCF_001722655_acriia21_1	1	1	0.071	1.0	1	acriia21	mandatory	131	2.6e-19	68.0	0.868	0.855	11	122			Anti_CRISPR	acriia21	Antidefense
+GCF_001722655	NDMBHD_18145	acriia21	3592	defense-finder-models/ADF/Anti_CRISPR/acriia21	GCF_001722655_acriia21_2	1	1	0.071	1.0	1	acriia21	mandatory	301	1.4e-20	72.2	0.829	0.339	18	119			Anti_CRISPR	acriia21	Antidefense

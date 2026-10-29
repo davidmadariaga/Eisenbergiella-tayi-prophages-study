@@ -1,0 +1,3 @@
+hit_id	replicon	hit_pos	hit_sequence_length	gene_name	i_eval	hit_score	hit_profile_cov	hit_seq_cov	hit_begin_match	hit_end_match
+BPBEBP_06290	GCF_047020995	1252	346	vcrx093	1.7000000000000002e-32	111.3	0.713	0.775	21	288
+BPBEBP_16690	GCF_047020995	3322	356	vcrx093	1.7e-35	121.2	0.874	0.916	25	350
